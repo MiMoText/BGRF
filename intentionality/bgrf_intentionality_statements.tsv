@@ -121,10 +121,10 @@ id	Spalte	text	Keyword	property	Konzept
 63.12	r_s	conte moral	conte moral	tonality	morale
 63.16	r_s	prétentions moralisatrices	prétentions moralisatrices	tonality	morale
 63.21	r_s	conte moral	conte moral	tonality	morale
-63.25	r_s	analyse psychologique	analyse psychologique	tonality	analyses réflexives
+63.25	r_s	analyse psychologique	analyse psychologique	tonality	analyse des passions
 63.27	r_s	but moralisateur	but moralisateur	tonality	morale
-63.30	r_s	critique des mœurs, ton comique	critique	tonality	critique
 63.30	r_s	critique des mœurs, ton comique	ton comique	tonality	comique
+63.30	r_s	critique des mœurs, ton comique	critique	tonality	critique
 63.31	r_s	intentions moralisatrices, idées politiques	intentions moralisatrices	tonality	morale
 63.32	r_s	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	tonality	satire
 63.38	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
@@ -134,7 +134,7 @@ id	Spalte	text	Keyword	property	Konzept
 63.5	r_s	satire contre les Jésuites	satire contre les Jésuites	tonality	satire
 63.8	r_s	but moralisateur, sensibilité	but moralisateur	tonality	morale
 64.21	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
-64.23	r_s	analyse psychologique	analyse psychologique	tonality	analyses réflexives
+64.23	r_s	analyse psychologique	analyse psychologique	tonality	analyse des passions
 64.3	r_s	ton moralisateur, sensibilité	ton moralisateur	tonality	morale
 64.30	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
 64.31	r_s	sensibilité, but didactique	but didactique	tonality	didactique
@@ -156,8 +156,8 @@ id	Spalte	text	Keyword	property	Konzept
 65.45	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
 65.52	r_s	discussions littéraires	discussions littéraires	tonality	discussions littéraires
 65.7	r_s	ton satirique	ton satirique	tonality	satire
-66.10	r_s	analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
-66.16	r_s	sensibilité passionnée	passion	tonality	analyses réflexives
+66.10	r_s	analyse des sentiments	analyse des sentiments	tonality	analyse des passions
+66.16	r_s	sensibilité passionnée	passion	tonality	analyse des passions
 66.21	r_s	ton satirique, thèmes philosophiques	thèmes philosophiques	tonality	philosophie
 66.21	r_s	ton satirique, thèmes philosophiques	ton satirique	tonality	satire
 66.24	r_s	ton satirique	ton satirique	tonality	satire
@@ -179,7 +179,7 @@ id	Spalte	text	Keyword	property	Konzept
 67.20	r_s	intentions moralisatrices et pieuses	intentions moralisatrices et pieuses	tonality	morale
 67.29	r_s	critique de l’église et des dogmes catholiques	critique	tonality	critique
 67.3	r_s	ton satirique	ton satirique	tonality	satire
-67.31	r_s	sensibilité passionnée et mélancolique	passion	tonality	analyses réflexives
+67.31	r_s	sensibilité passionnée et mélancolique	passion	tonality	analyse des passions
 67.34	r_s	intentions moralisatrices, sensibilité	intentions moralisatrices	tonality	morale
 67.35	r_s	ton satirique, ouvrage à clef	ton satirique	tonality	satire
 67.38	r_s	ton satirique	ton satirique	tonality	satire
@@ -192,27 +192,27 @@ id	Spalte	text	Keyword	property	Konzept
 68.16	r_s	dialogues sur la religion	dialogues sur la religion	tonality	considérations politiques
 68.22	r_s	ton satirique	ton satirique	tonality	satire
 68.23	r_s	satire des institutions économiques	satire	tonality	satire
-68.25	r_s	"sensibilité, mélancolie, passions funestes, héros ""philosophe"""	passion	tonality	analyses réflexives
+68.25	r_s	"sensibilité, mélancolie, passions funestes, héros ""philosophe"""	passion	tonality	analyse des passions
 68.26	r_s	ton satirique	ton satirique	tonality	satire
 68.38	r_s	ton satirique	ton satirique	tonality	satire
 68.41	r_s	ton satirique	ton satirique	tonality	satire
 68.42	r_s	observations morales et philosophiques	morale	tonality	morale
 68.46	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
-68.48	r_s	intentions moralisatrices, analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
+68.48	r_s	intentions moralisatrices, analyse des sentiments	analyse des sentiments	tonality	analyse des passions
 68.48	r_s	intentions moralisatrices, analyse des sentiments	intentions moralisatrices	tonality	morale
 68.53	r_s	ton satirique, intentions moralisatrices	intentions moralisatrices	tonality	morale
 68.53	r_s	ton satirique, intentions moralisatrices	ton satirique	tonality	satire
 68.55	r_s	thèmes économiques et philosophiques	thèmes économiques et philosophiques	tonality	philosophie
 68.56	r_s	critique des mœurs, thèmes philosophiques	critique	tonality	critique
 68.56	r_s	critique des mœurs, thèmes philosophiques	thèmes philosophiques	tonality	philosophie
-68.57	r_s	ironie, analyse des idées et des passions	passion	tonality	analyses réflexives
+68.57	r_s	ironie, analyse des idées et des passions	passion	tonality	analyse des passions
 68.5bis	r_s	ton sentimental et moralisateur	ton sentimental et moralisateur	tonality	morale
 68.8	r_s	sensibilité, vertu, intentions moralisatrices, peinture des mœurs	intentions moralisatrices	tonality	morale
 69.12	r_s	intentions moralisatrices, sensibilité effrénée, mélancolie	intentions moralisatrices	tonality	morale
 69.14	r_s	ton satirique	ton satirique	tonality	satire
-69.16	r_s	analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
+69.16	r_s	analyse des sentiments	analyse des sentiments	tonality	analyse des passions
 69.25	r_s	ton satirique	ton satirique	tonality	satire
-69.29	r_s	sensibilité passionnée	passion	tonality	analyses réflexives
+69.29	r_s	sensibilité passionnée	passion	tonality	analyse des passions
 69.30	r_s	ton sensible, intentions moralisatrices	intentions moralisatrices	tonality	morale
 69.36	r_s	prétentions moralisatrices	prétentions moralisatrices	tonality	morale
 69.40	r_s	peinture des mœurs et observations morales, ton satirique	morale	tonality	morale
@@ -224,7 +224,7 @@ id	Spalte	text	Keyword	property	Konzept
 69.62	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
 69.63	r_s	ton satirique	ton satirique	tonality	satire
 69.64	r_s	ton satirique, fantaisiste	ton satirique	tonality	satire
-69.65	r_s	sensibilité effrénée, analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
+69.65	r_s	sensibilité effrénée, analyse des sentiments	analyse des sentiments	tonality	analyse des passions
 69.69	r_s	critique de l’Eglise, thèmes philosophiques	critique	tonality	critique
 69.69	r_s	critique de l’Eglise, thèmes philosophiques	thèmes philosophiques	tonality	philosophie
 69.70	r_s	ton satirique	ton satirique	tonality	satire
@@ -234,7 +234,7 @@ id	Spalte	text	Keyword	property	Konzept
 70.16	r_s	allégorie morale	morale	tonality	morale
 70.22	r_s	prétentions moralisatrices, sensibilité	prétentions moralisatrices	tonality	morale
 70.24	r_s	thèmes politiques et religieux (allusions à l’affaire Calas)	thèmes politiques	tonality	considérations politiques
-70.26	r_s	analyse des sentiments, vertu	analyse des sentiments	tonality	analyses réflexives
+70.26	r_s	analyse des sentiments, vertu	analyse des sentiments	tonality	analyse des passions
 70.27	r_s	intentions moralisatrices, sensibilité, mélancolie	intentions moralisatrices	tonality	morale
 70.29	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
 70.3	r_s	sensibilité, prétentions moralisatrices	prétentions moralisatrices	tonality	morale
@@ -247,8 +247,8 @@ id	Spalte	text	Keyword	property	Konzept
 70.6	r_s	ton ironique, épopée burlesque	ton ironique	tonality	satire
 70.65	r_s	ton satirique	ton satirique	tonality	satire
 70.67	r_s	ton comique	ton comique	tonality	comique
-70.7	r_s	analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
-70.74	r_s	sensibilité passionnée, poème en prose	passion	tonality	analyses réflexives
+70.7	r_s	analyse des sentiments	analyse des sentiments	tonality	analyse des passions
+70.74	r_s	sensibilité passionnée, poème en prose	passion	tonality	analyse des passions
 70.77	r_s	ton satirique	ton satirique	tonality	satire
 71.15	r_s	thèmes anticléricaux	thèmes anticléricaux	tonality	critique
 71.20	r_s	intentions moralisatrices	intentions moralisatrices	tonality	morale
@@ -266,15 +266,15 @@ id	Spalte	text	Keyword	property	Konzept
 72.16	r_s	thèmes philosophiques	thèmes philosophiques	tonality	philosophie
 72.22	r_s	thèmes politiques	thèmes politiques	tonality	considérations politiques
 72.24bis	r_s	intentions moralisatrices, réflexions édifiantes	intentions moralisatrices	tonality	morale
-72.27	r_s	sensibilité passionnée, couleur locale	passion	tonality	analyses réflexives
+72.27	r_s	sensibilité passionnée, couleur locale	passion	tonality	analyse des passions
 72.29	r_s	discussions politiques, intentions didactiques	discussions politiques	tonality	considérations politiques
 72.29	r_s	discussions politiques, intentions didactiques	didactique	tonality	didactique
 72.31	r_s	prétentions moralisatrices	prétentions moralisatrices	tonality	morale
-72.32	r_s	sensibilité, analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
+72.32	r_s	sensibilité, analyse des sentiments	analyse des sentiments	tonality	analyse des passions
 72.36	r_s	réflexions morales et philosophiques	morale	tonality	morale
 72.6	r_s	ton satirique, thèmes philosophiques	thèmes philosophiques	tonality	philosophie
 72.6	r_s	ton satirique, thèmes philosophiques	ton satirique	tonality	satire
-73.11	r_s	passion, sensibilité	passion	tonality	analyses réflexives
+73.11	r_s	passion, sensibilité	passion	tonality	analyse des passions
 73.14	r_s	observations morales	morale	tonality	morale
 73.15	r_s	critique des mœurs et observations morales	critique	tonality	critique
 73.15	r_s	critique des mœurs et observations morales	morale	tonality	morale
@@ -302,7 +302,7 @@ id	Spalte	text	Keyword	property	Konzept
 75.38	r_s	ton satirique	ton satirique	tonality	satire
 75.44	r_s	thèmes philosophiques	thèmes philosophiques	tonality	philosophie
 75.46	r_s	thèmes philosophiques	thèmes philosophiques	tonality	philosophie
-76.17	r_s	sensibilité passionnée	passion	tonality	analyses réflexives
+76.17	r_s	sensibilité passionnée	passion	tonality	analyse des passions
 76.24	r_s	ton satirique	ton satirique	tonality	satire
 76.44	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	prétentions moralisatrices	tonality	morale
 76.45	r_s	ton satirique	ton satirique	tonality	satire
@@ -339,9 +339,9 @@ id	Spalte	text	Keyword	property	Konzept
 80.17	r_s	critique des mœurs anglaises	critique	tonality	critique
 80.18	r_s	ton satirique	ton satirique	tonality	satire
 80.23	r_s	but moralisateur	but moralisateur	tonality	morale
-80.24	r_s	sensibilité, analyse des passions	analyse des passions	tonality	analyses réflexives
+80.24	r_s	sensibilité, analyse des passions	analyse des passions	tonality	analyse des passions
 80.27	r_s	réalisme du cadre, autobiographie romancée, sensibilité, prétentions moralisatrices	prétentions moralisatrices	tonality	morale
-81.13	r_s	sensibilité passionnée, nature	passion	tonality	analyses réflexives
+81.13	r_s	sensibilité passionnée, nature	passion	tonality	analyse des passions
 81.18	r_s	ton satirique	ton satirique	tonality	satire
 81.2	r_s	discussions philosophiques et morales	morale	tonality	morale
 81.2	r_s	discussions philosophiques et morales	discussions philosophiques et morales	tonality	philosophie
@@ -363,7 +363,7 @@ id	Spalte	text	Keyword	property	Konzept
 83.56	r_s	ton satirique	ton satirique	tonality	satire
 83.59	r_s	sensibilité, prétentions moralisatrices	prétentions moralisatrices	tonality	morale
 83.8	r_s	conclusions moralisatrices	conclusions moralisatrices	tonality	morale
-84.18	r_s	analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
+84.18	r_s	analyse des sentiments	analyse des sentiments	tonality	analyse des passions
 84.2	r_s	but moralisateur	but moralisateur	tonality	morale
 84.20	r_s	ton moralisateur	ton moralisateur	tonality	morale
 84.23	r_s	ton satirique	ton satirique	tonality	satire
@@ -421,11 +421,11 @@ id	Spalte	text	Keyword	property	Konzept
 88.25	r_s	ton satirique	ton satirique	tonality	satire
 88.29	r_s	ton satirique	ton satirique	tonality	satire
 88.31	r_s	ton satirique, but moral	ton satirique	tonality	satire
-88.32	r_s	sensibilité passionnée	passion	tonality	analyses réflexives
+88.32	r_s	sensibilité passionnée	passion	tonality	analyse des passions
 88.39	r_s	réflexions philosophiques de toutes sortes	réflexions philosophiques de toutes sortes	tonality	philosophie
 88.42	r_s	thèmes politiques	thèmes politiques	tonality	considérations politiques
-88.5	r_s	analyse des sentiments	analyse des sentiments	tonality	analyses réflexives
-88.55	r_s	sensibilité passionnée, réflexions mélancoliques	réflexions mélancoliques	tonality	analyses réflexives
+88.5	r_s	analyse des sentiments	analyse des sentiments	tonality	analyse des passions
+88.55	r_s	sensibilité passionnée, réflexions mélancoliques	réflexions mélancoliques	tonality	analyse des passions
 88.56	r_s	prétentions moralisatrices, sensibilité	prétentions moralisatrices	tonality	morale
 88.68	r_s	sensibilité, prétentions moralisatrices	prétentions moralisatrices	tonality	morale
 88.69	r_s	ton satirique	ton satirique	tonality	satire
@@ -460,13 +460,13 @@ id	Spalte	text	Keyword	property	Konzept
 89.98	r_s	allégorie	allégorie	tonality	allégorie
 90.17	r_s	ton satirique	ton satirique	tonality	satire
 90.2	r_s	thèmes politiques	thèmes politiques	tonality	considérations politiques
-90.28	r_s	sensibilité passionnée, style élevé	passion	tonality	analyses réflexives
+90.28	r_s	sensibilité passionnée, style élevé	passion	tonality	analyse des passions
 90.31	r_s	roman d’éducation (thèmes politiques, religieux)	thèmes politiques	tonality	considérations politiques
 90.4	r_s	ton moralisateur et sentimental	ton moralisateur	tonality	morale
 90.40	r_s	ton satirique, style ’ancien ’	ton satirique	tonality	satire
 90.44	r_s	dans le genre du Roman comique de Scarron, intentions satiriques	comique	tonality	comique
 90.48	r_s	ton moralisateur	ton moralisateur	tonality	morale
-90.50	r_s	sensibilité passionnée	passion	tonality	analyses réflexives
+90.50	r_s	sensibilité passionnée	passion	tonality	analyse des passions
 90.62	r_s	prétentions moralisatrices	prétentions moralisatrices	tonality	morale
 90.7	r_s	ton satirique	ton satirique	tonality	satire
 91.23	r_s	ton satirique	ton satirique	tonality	satire
@@ -483,13 +483,13 @@ id	Spalte	text	Keyword	property	Konzept
 93.15	r_s	ton héroï-comique	ton héroï-comique	tonality	satire
 93.5	r_s	satire politique, religieuse, médicale	satire	tonality	satire
 93.6	r_s	attaques contre les monarques	attaques contre les monarques	tonality	critique
-94.14	r_s	passions violentes et néfastes	passions violentes et néfastes	tonality	analyses réflexives
+94.14	r_s	passions violentes et néfastes	passions violentes et néfastes	tonality	analyse des passions
 94.15	r_s	observations sur les mœurs	observations sur les mœurs	tonality	morale
 94.7	r_s	thèmes anticléricaux, vertus républicaines	thèmes anticléricaux	tonality	critique
 95.10	r_s	épopée didactique	didactique	tonality	didactique
-95.14	r_s	prose poétique, peintures voluptueuses, sensibilité passionnée	passion	tonality	analyses réflexives
+95.14	r_s	prose poétique, peintures voluptueuses, sensibilité passionnée	passion	tonality	analyse des passions
 95.21	r_s	ton comique	ton comique	tonality	comique
-95.27	r_s	sensibilité passionnée	passion	tonality	analyses réflexives
+95.27	r_s	sensibilité passionnée	passion	tonality	analyse des passions
 95.44	r_s	arrière-plan historique et philosophique	arrière-plan historique	tonality	ambiguïté 
 95.6	r_s	peinture des mœurs	peinture des mœurs	tonality	morale
 96.16	r_s	ton sentimental et moralisateur	ton sentimental et moralisateur	tonality	morale
@@ -573,32 +573,32 @@ id	Spalte	text	Keyword	property	Konzept
 51.42	r_s	but moralisateur.	but moralisateur	tonality	morale
 52.43	r_s	thèmes philosophiques, ton satirique.	thèmes philosophiques	tonality	philosophie
 52.43	r_s	thèmes philosophiques, ton satirique.	ton satirique	tonality	satire
-57.12	r_s	analyse psychologique.	analyse psychologique	tonality	analyses réflexives
+57.12	r_s	analyse psychologique.	analyse psychologique	tonality	analyse des passions
 58.13	r_s	réflexions morales.	morale	tonality	morale
-58.17	r_s	analyse des sentiments, mélancolie.	analyse des sentiments	tonality	analyses réflexives
+58.17	r_s	analyse des sentiments, mélancolie.	analyse des sentiments	tonality	analyse des passions
 58.5	r_s	ton satirique	ton satirique	tonality	satire
 62.11	r_s	critique des mœurs, ton satirique.	critique	tonality	critique
 62.11	r_s	critique des mœurs, ton satirique.	ton satirique	tonality	satire
-66.11	r_s	sensibilité, analyse des sentiments.	analyse des sentiments	tonality	analyses réflexives
+66.11	r_s	sensibilité, analyse des sentiments.	analyse des sentiments	tonality	analyse des passions
 67.39	r_s	style noble, vertu, thèmes philosophiques.	thèmes philosophiques	tonality	philosophie
-67.44	r_s	analyse psychologique.	analyse psychologique	tonality	analyses réflexives
+67.44	r_s	analyse psychologique.	analyse psychologique	tonality	analyse des passions
 68.55	r_s	thèmes économiques et philosophiques	thèmes économiques et philosophiques	tonality	philosophie
 71.36	r_s	ton satirique.	ton satirique	tonality	satire
 74.15	r_s	sensibilité, vertu, prétentions moralisatrices.	prétentions moralisatrices	tonality	morale
-74.20	r_s	malheurs, sensibilité passionnée.	passion	tonality	analyses réflexives
+74.20	r_s	malheurs, sensibilité passionnée.	passion	tonality	analyse des passions
 77.57	r_s	observations sur les mœurs.	observations sur les mœurs	tonality	morale
-82.17	r_s	analyse psychologique.	analyse psychologique	tonality	analyses réflexives
+82.17	r_s	analyse psychologique.	analyse psychologique	tonality	analyse des passions
 82.20	r_s	but didactique (roman d’éducation), sensibilité, vertu.	but didactique	tonality	didactique
 82.27	r_s	thèmes philosophiques, quelques épisodes aux tendances réalistes.	thèmes philosophiques	tonality	philosophie
 84.58	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	intentions moralisatrices	tonality	morale
-85.24	r_s	critique sociale, analyse psychologique.	analyse psychologique	tonality	analyses réflexives
+85.24	r_s	critique sociale, analyse psychologique.	analyse psychologique	tonality	analyse des passions
 85.24	r_s	critique sociale, analyse psychologique.	critique	tonality	critique
 87.25	r_s	fin moralisatrice.	fin moralisatrice	tonality	morale
-87.54bis	r_s	sensibilité passionnée, retour à la nature.	passion	tonality	analyses réflexives
+87.54bis	r_s	sensibilité passionnée, retour à la nature.	passion	tonality	analyse des passions
 89.81	r_s	prétentions moralisatrices.	prétentions moralisatrices	tonality	morale
 90.47	r_s	ton satirique.	ton satirique	tonality	satire
 91.44	r_s	ton satirique.	ton satirique	tonality	satire
-94.13	r_s	analyse des sentiments.	analyse des sentiments	tonality	analyses réflexives
+94.13	r_s	analyse des sentiments.	analyse des sentiments	tonality	analyse des passions
 97.21	r_s	thèmes philosophiques, mise en cause des techniques du romancier.	thèmes philosophiques	tonality	philosophie
 97.22	r_s	thèmes philosophiques et humanitaires.	thèmes philosophiques	tonality	philosophie
-99.62	r_s	analyse des sentiments, sensibilité, vertu.	analyse des sentiments	tonality	analyses réflexives
+99.62	r_s	analyse des sentiments, sensibilité, vertu.	analyse des sentiments	tonality	analyse des passions

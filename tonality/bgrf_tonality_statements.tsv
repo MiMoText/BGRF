@@ -4,14 +4,11 @@ id	Spalte	text	Keyword	property	Konzept
 00.102	r_s	sensibilité	sensibilité	tonality	sensibilité
 00.114	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
 00.117	r_s	ton léger mêlé de sensibilité	sensibilité	tonality	sensibilité
-00.117	r_s	ton léger mêlé de sensibilité	ton léger mêlé de sensibilité	tonality	ton léger
+00.117	r_s	ton léger mêlé de sensibilité	ton léger mêlé de sensibilité	tonality	ton gai
 00.118	r_s	couleur locale	couleur locale	tonality	couleur locale
-00.121	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 00.121	r_s	ton satirique, tendances réalistes	ton satirique	tonality	satire
-00.122	r_s	ton léger	ton léger	tonality	ton léger
+00.121	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 00.126	r_s	ton sensible	ton sensible	tonality	sensibilité
-00.127	r_s	ton léger	ton léger	tonality	ton léger
-00.129	r_s	ton léger	ton léger	tonality	ton léger
 00.130	r_s	éléments historiques, sensibilité, mélancolie	mélancolie	tonality	mélancolie
 00.130	r_s	éléments historiques, sensibilité, mélancolie	sensibilité	tonality	sensibilité
 00.131	r_s	sensibilité, éléments du roman noir	sensibilité	tonality	sensibilité
@@ -22,14 +19,13 @@ id	Spalte	text	Keyword	property	Konzept
 00.141	r_s	sensibilité	sensibilité	tonality	sensibilité
 00.143	r_s	couleur locale, éléments merveilleux	éléments merveilleux	tonality	conte de fée
 00.143	r_s	couleur locale, éléments merveilleux	couleur locale	tonality	couleur locale
-00.144	r_s	ton facétieux	ton facétieux	tonality	ton léger
+00.144	r_s	ton facétieux	ton facétieux	tonality	ton gai
 00.145	r_s	genre troubadour	genre troubadour	tonality	style poétique
 00.146	r_s	sensibilité et prétentions moralisatrices	sensibilité	tonality	sensibilité
 00.149	r_s	mélancolie, mystères, sensibilité	mélancolie	tonality	mélancolie
 00.149	r_s	mélancolie, mystères, sensibilité	sensibilité	tonality	sensibilité
 00.150	r_s	tableau de mœurs, ton sensible et moralisateur	ton sensible	tonality	sensibilité
 00.151	r_s	ton satirique	ton satirique	tonality	satire
-00.152	r_s	ton léger	ton léger	tonality	ton léger
 00.155	r_s	éléments merveilleux, prose poétique	éléments merveilleux	tonality	conte de fée
 00.155	r_s	éléments merveilleux, prose poétique	prose poétique	tonality	style poétique
 00.16	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
@@ -38,7 +34,6 @@ id	Spalte	text	Keyword	property	Konzept
 00.21	r_s	ton satirique	ton satirique	tonality	satire
 00.26	r_s	bienfaisance, sensibilité	sensibilité	tonality	sensibilité
 00.28	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-00.35	r_s	ton léger	ton léger	tonality	ton léger
 00.43	r_s	ton satirique	ton satirique	tonality	satire
 00.44	r_s	sensibilité	sensibilité	tonality	sensibilité
 00.48	r_s	ton sensible	ton sensible	tonality	sensibilité
@@ -53,7 +48,6 @@ id	Spalte	text	Keyword	property	Konzept
 00.64	r_s	précisions pornographiques, ton satirique	précisions pornographiques	tonality	précisions pornographiques
 00.64	r_s	précisions pornographiques, ton satirique	ton satirique	tonality	satire
 00.65	r_s	ton léger, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-00.65	r_s	ton léger, tendances réalistes	ton léger	tonality	ton léger
 00.66	r_s	ton satirique, thèmes philosophiques, sensibilité	ton satirique	tonality	satire
 00.66	r_s	ton satirique, thèmes philosophiques, sensibilité	sensibilité	tonality	sensibilité
 00.7	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -66,10 +60,9 @@ id	Spalte	text	Keyword	property	Konzept
 00.97	r_s	ton satirique	ton satirique	tonality	satire
 51.1	r_s	sensibilité	sensibilité	tonality	sensibilité
 51.10	r_s	prose poétique	prose poétique	tonality	style poétique
-51.21	r_s	ton léger	ton léger	tonality	ton léger
 51.25	r_s	sensibilité	sensibilité	tonality	sensibilité
 51.3	r_s	sensibilité	sensibilité	tonality	sensibilité
-51.31	r_s	observations sur les mœurs européennes, ton plaisant	ton plaisant	tonality	ton léger
+51.31	r_s	observations sur les mœurs européennes, ton plaisant	ton plaisant	tonality	ton gai
 51.32	r_s	dans le style de Prévost	dans le style de Prévost	tonality	manière imitée (parodie)
 51.34	r_s	vogue du genre troubadour	vogue du genre troubadour	tonality	manière imitée (parodie)
 51.34	r_s	vogue du genre troubadour	genre troubadour	tonality	style poétique
@@ -81,7 +74,6 @@ id	Spalte	text	Keyword	property	Konzept
 52.1	r_s	sensibilité	sensibilité	tonality	sensibilité
 52.17	r_s	ton satirique	ton satirique	tonality	satire
 52.18	r_s	ton satirique	ton satirique	tonality	satire
-52.19	r_s	ton léger	ton léger	tonality	ton léger
 52.21	r_s	satire des mœurs	satire	tonality	satire
 52.26	r_s	sensibilité	sensibilité	tonality	sensibilité
 52.28	r_s	ton satirique	ton satirique	tonality	satire
@@ -105,40 +97,34 @@ id	Spalte	text	Keyword	property	Konzept
 53.28	r_s	sensibilité	sensibilité	tonality	sensibilité
 53.31	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
 53.33	r_s	allégorie humoristique, en forme de rêve, sur des questions d’eugénique	allégorie	tonality	allégorie
-53.4	r_s	conversations sur l’amour; conte merveilleux	conversations sur l’amour	tonality	non-fiction
+53.4	r_s	conversations sur l’amour; conte merveilleux	conversations sur l’amour	tonality	ton sentimental
 53.5	r_s	ton satirique	ton satirique	tonality	satire
 53.7	r_s	conte de fées	conte de fée	tonality	conte de fée
 53.8	r_s	ton satirique	ton satirique	tonality	satire
 54.10	r_s	ton satirique	ton satirique	tonality	satire
 54.2	r_s	détails pornographiques	détails pornographiques	tonality	précisions pornographiques
-54.20	r_s	ton léger	ton léger	tonality	ton léger
 54.26	r_s	critique des mœurs	critique	tonality	critique
 54.6	r_s	ton satirique	ton satirique	tonality	satire
 55.10	r_s	ton scabreux	ton scabreux	tonality	satire
 55.11	r_s	critique des mœurs, ton satirique	critique	tonality	critique
 55.11	r_s	critique des mœurs, ton satirique	ton satirique	tonality	satire
 55.13	r_s	ton satirique	ton satirique	tonality	satire
-55.14	r_s	ton léger	ton léger	tonality	ton léger
-55.17	r_s	facétie grossière	facétie	tonality	ton léger
+55.17	r_s	facétie grossière	facétie	tonality	ton gai
 55.18	r_s	conte de fées	conte de fée	tonality	conte de fée
 55.19	r_s	thèses féministes	thèses féministes	tonality	critique
 55.20	r_s	sensibilité	sensibilité	tonality	sensibilité
 55.21	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
 55.22	r_s	sensibilité	sensibilité	tonality	sensibilité
 55.23	r_s	conte de fées	conte de fée	tonality	conte de fée
-55.24	r_s	ton léger	ton léger	tonality	ton léger
 55.27	r_s	parodie des récits de voyages, ton pseudo-héroïque	parodie des récits de voyages	tonality	manière imitée (parodie)
 55.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-55.29	r_s	ton libre	ton libre	tonality	ton léger
-55.31	r_s	ton léger	ton léger	tonality	ton léger
-55.32	r_s	ton facétieux	ton facétieux	tonality	ton léger
+55.29	r_s	ton libre	ton libre	tonality	ton gai
+55.32	r_s	ton facétieux	ton facétieux	tonality	ton gai
 55.34	r_s	style poétique	style poétique	tonality	style poétique
 55.35	r_s	mythologie et féerie	mythologie et féerie	tonality	conte de fée
 55.38	r_s	éléments satiriques	éléments satiriques	tonality	satire
-55.41	r_s	ton léger	ton léger	tonality	ton léger
-55.9	r_s	ton léger	ton léger	tonality	ton léger
 56.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-56.17	r_s	facétie grossière	facétie	tonality	ton léger
+56.17	r_s	facétie grossière	facétie	tonality	ton gai
 56.2	r_s	critique des couvents	critique	tonality	critique
 56.28	r_s	prétentions moralisatrices, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 56.3	r_s	ton anti-religieux	ton anti-religieux	tonality	critique
@@ -150,7 +136,7 @@ id	Spalte	text	Keyword	property	Konzept
 57.15	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	tonality	mélancolie
 57.15	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	tonality	sensibilité
 57.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-57.3	r_s	ton libre, fin moralisatrice	ton libre	tonality	ton léger
+57.3	r_s	ton libre, fin moralisatrice	ton libre	tonality	ton gai
 57.7	r_s	ton satirique	ton satirique	tonality	satire
 58.1	r_s	ton satirique, réflexions philosophiques	ton satirique	tonality	satire
 58.15	r_s	réflexions philosophiques, sensibilité	sensibilité	tonality	sensibilité
@@ -172,7 +158,7 @@ id	Spalte	text	Keyword	property	Konzept
 60.27	r_s	satire de Palissot et de ses protecteurs	satire	tonality	satire
 60.28	r_s	sensibilité, mélancolie.	mélancolie	tonality	mélancolie
 60.28	r_s	sensibilité, mélancolie.	sensibilité	tonality	sensibilité
-60.33	r_s	ton plaisant	ton plaisant	tonality	ton léger
+60.33	r_s	ton plaisant	ton plaisant	tonality	ton gai
 61.18	r_s	sensibilité	sensibilité	tonality	sensibilité
 61.20	r_s	ton ironique	ton ironique	tonality	satire
 61.22	r_s	ton satirique	ton satirique	tonality	satire
@@ -186,11 +172,10 @@ id	Spalte	text	Keyword	property	Konzept
 62.34	r_s	sensibilité, but moralisateur	sensibilité	tonality	sensibilité
 62.36	r_s	satire des disputes entre Jésuites et Capucins	satire	tonality	satire
 62.37	r_s	critique des mœurs	critique	tonality	critique
-62.6	r_s	ton licencieux	ton licencieux	tonality	ton léger
+62.6	r_s	ton licencieux	ton licencieux	tonality	ton gai
 62.7	r_s	critique des mœurs à la manière du Diable boiteux	critique	tonality	critique
 63.10	r_s	ton satirique	ton satirique	tonality	satire
-63.14	r_s	ton libre	ton libre	tonality	ton léger
-63.2	r_s	ton léger	ton léger	tonality	ton léger
+63.14	r_s	ton libre	ton libre	tonality	ton gai
 63.23	r_s	sensibilité	sensibilité	tonality	sensibilité
 63.24	r_s	sensibilité	sensibilité	tonality	sensibilité
 63.30	r_s	critique des mœurs, ton comique	critique	tonality	critique
@@ -211,7 +196,6 @@ id	Spalte	text	Keyword	property	Konzept
 64.31	r_s	sensibilité, but didactique	sensibilité	tonality	sensibilité
 64.37	r_s	satire du style enflé de l’épopée	satire	tonality	satire
 64.40	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-64.41	r_s	ton léger	ton léger	tonality	ton léger
 64.43	r_s	prose poétique	prose poétique	tonality	style poétique
 64.44	r_s	ton satirique	ton satirique	tonality	satire
 64.46	r_s	satire des petits-maîtres	satire	tonality	satire
@@ -223,8 +207,8 @@ id	Spalte	text	Keyword	property	Konzept
 65.19	r_s	mélancolie, sensibilité (à la manière de Prévost)	mélancolie	tonality	mélancolie
 65.19	r_s	mélancolie, sensibilité (à la manière de Prévost)	sensibilité	tonality	sensibilité
 65.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-65.20	r_s	tendances réalistes, sensibilité	tendances réalistes	tonality	tendances réalistes
 65.20	r_s	tendances réalistes, sensibilité	sensibilité	tonality	sensibilité
+65.20	r_s	tendances réalistes, sensibilité	tendances réalistes	tonality	tendances réalistes
 65.22	r_s	sensibilité	sensibilité	tonality	sensibilité
 65.24	r_s	ton satirique	ton satirique	tonality	satire
 65.25	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
@@ -232,7 +216,6 @@ id	Spalte	text	Keyword	property	Konzept
 65.28	r_s	sensibilité	sensibilité	tonality	sensibilité
 65.29	r_s	critique des mœurs, réflexions	critique	tonality	critique
 65.31	r_s	extrême sensibilité	sensibilité	tonality	sensibilité
-65.33	r_s	ton léger	ton léger	tonality	ton léger
 65.38	r_s	ton satirique	ton satirique	tonality	satire
 65.42	r_s	sensibilité, malheurs, intentions moralisatrices (à la manière de Prévost)	à la manière de Prévost	tonality	manière imitée (parodie)
 65.42	r_s	sensibilité, malheurs, intentions moralisatrices (à la manière de Prévost)	sensibilité	tonality	sensibilité
@@ -261,7 +244,6 @@ id	Spalte	text	Keyword	property	Konzept
 66.44	r_s	mélancolie, sensibilité	mélancolie	tonality	mélancolie
 66.44	r_s	mélancolie, sensibilité	sensibilité	tonality	sensibilité
 66.5	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-66.6bis	r_s	ton léger	ton léger	tonality	ton léger
 66.8	r_s	allégorie de la vie politique (selon l’auteur)	allégorie	tonality	allégorie
 66.9	r_s	sensibilité effrénée, vertu, bienfaisance	sensibilité	tonality	sensibilité
 67.11	r_s	tendances réalistes au début	tendances réalistes	tonality	tendances réalistes
@@ -297,8 +279,8 @@ id	Spalte	text	Keyword	property	Konzept
 67.52	r_s	ton satirique, sensibilité à la fin	sensibilité	tonality	sensibilité
 67.8	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
 68.12	r_s	sensibilité	sensibilité	tonality	sensibilité
-68.19	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	tendances réalistes	tonality	tendances réalistes
 68.19	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	sensibilité	tonality	sensibilité
+68.19	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	tendances réalistes	tonality	tendances réalistes
 68.21	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
 68.21	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
 68.22	r_s	ton satirique	ton satirique	tonality	satire
@@ -316,7 +298,7 @@ id	Spalte	text	Keyword	property	Konzept
 68.37	r_s	sensibilité effrénée, mélancolie (’J’ai déjà trop vécu ’)	sensibilité	tonality	sensibilité
 68.38	r_s	ton satirique	ton satirique	tonality	satire
 68.41	r_s	ton satirique	ton satirique	tonality	satire
-68.43	r_s	ton facétieux	ton facétieux	tonality	ton léger
+68.43	r_s	ton facétieux	ton facétieux	tonality	ton gai
 68.44	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
 68.5	r_s	mélancolie, sensibilité	mélancolie	tonality	mélancolie
 68.5	r_s	mélancolie, sensibilité	sensibilité	tonality	sensibilité
@@ -336,16 +318,14 @@ id	Spalte	text	Keyword	property	Konzept
 69.23	r_s	ton noble, couleur locale	couleur locale	tonality	couleur locale
 69.23	r_s	ton noble, couleur locale	ton noble	tonality	style élevé
 69.25	r_s	ton satirique	ton satirique	tonality	satire
-69.27	r_s	ton léger	ton léger	tonality	ton léger
 69.29	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
 69.30	r_s	ton sensible, intentions moralisatrices	ton sensible	tonality	sensibilité
-69.31	r_s	ton frivole	ton frivole	tonality	ton léger
+69.31	r_s	ton frivole	ton frivole	tonality	ton gai
 69.35	r_s	sensibilité	sensibilité	tonality	sensibilité
 69.40	r_s	peinture des mœurs et observations morales, ton satirique	ton satirique	tonality	satire
 69.41	r_s	vertu, sensibilité	sensibilité	tonality	sensibilité
 69.44	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.47	r_s	ton léger	ton léger	tonality	ton léger
-69.49	r_s	ton facétieux	ton facétieux	tonality	ton léger
+69.49	r_s	ton facétieux	ton facétieux	tonality	ton gai
 69.5	r_s	sensibilité	sensibilité	tonality	sensibilité
 69.50	r_s	vertu, sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
 69.51	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -358,10 +338,9 @@ id	Spalte	text	Keyword	property	Konzept
 69.65	r_s	sensibilité effrénée, analyse des sentiments	sensibilité	tonality	sensibilité
 69.69	r_s	critique de l’Eglise, thèmes philosophiques	critique	tonality	critique
 69.70	r_s	ton satirique	ton satirique	tonality	satire
-69.72	r_s	sensibilité, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 69.72	r_s	sensibilité, tendances réalistes	sensibilité	tonality	sensibilité
+69.72	r_s	sensibilité, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 69.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-70.1	r_s	ton léger	ton léger	tonality	ton léger
 70.10	r_s	critique des mœurs et sensibilité mélancolique (dans les lettres)	critique	tonality	critique
 70.10	r_s	critique des mœurs et sensibilité mélancolique (dans les lettres)	mélancolique	tonality	mélancolie
 70.10	r_s	critique des mœurs et sensibilité mélancolique (dans les lettres)	sensibilité	tonality	sensibilité
@@ -370,7 +349,7 @@ id	Spalte	text	Keyword	property	Konzept
 70.16	r_s	allégorie morale	allégorie	tonality	allégorie
 70.18	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
 70.22	r_s	prétentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-70.23	r_s	ton facétieux	ton facétieux	tonality	ton léger
+70.23	r_s	ton facétieux	ton facétieux	tonality	ton gai
 70.27	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	tonality	mélancolie
 70.27	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	tonality	sensibilité
 70.3	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
@@ -380,7 +359,6 @@ id	Spalte	text	Keyword	property	Konzept
 70.36	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
 70.43	r_s	sensibilité	sensibilité	tonality	sensibilité
 70.45	r_s	ton léger, fin sensible	fin sensible	tonality	sensibilité
-70.45	r_s	ton léger, fin sensible	ton léger	tonality	ton léger
 70.47	r_s	sensibilité, mélancolie, malheurs	mélancolie	tonality	mélancolie
 70.47	r_s	sensibilité, mélancolie, malheurs	sensibilité	tonality	sensibilité
 70.49	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -403,7 +381,6 @@ id	Spalte	text	Keyword	property	Konzept
 71.24	r_s	malheurs, sensibilité	sensibilité	tonality	sensibilité
 71.27	r_s	ton satirique	ton satirique	tonality	satire
 71.32	r_s	sensibilité	sensibilité	tonality	sensibilité
-71.41	r_s	ton léger, mais intentions moralisatrices	ton léger	tonality	ton léger
 71.47	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
 71.7	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
 71.8	r_s	ton satirique	ton satirique	tonality	satire
@@ -434,9 +411,7 @@ id	Spalte	text	Keyword	property	Konzept
 73.27	r_s	sensibilité, style élevé	sensibilité	tonality	sensibilité
 73.27	r_s	sensibilité, style élevé	style élevé	tonality	style élevé
 73.29	r_s	ton satirique	ton satirique	tonality	satire
-73.30	r_s	observations sur les mœurs; ton léger	ton léger	tonality	ton léger
-73.31	r_s	ton léger, intentions moralisatrices	ton léger	tonality	ton léger
-73.32	r_s	ton facétieux	ton facétieux	tonality	ton léger
+73.32	r_s	ton facétieux	ton facétieux	tonality	ton gai
 73.33	r_s	style poétique	style poétique	tonality	style poétique
 73.34	r_s	sensibilité	sensibilité	tonality	sensibilité
 73.35	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -465,9 +440,9 @@ id	Spalte	text	Keyword	property	Konzept
 74.9	r_s	sensibilité	sensibilité	tonality	sensibilité
 75.1	r_s	sensibilité. A la manière de Werther	A la manière de Werther	tonality	manière imitée (parodie)
 75.1	r_s	sensibilité. A la manière de Werther	sensibilité	tonality	sensibilité
-75.10	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	tendances réalistes	tonality	tendances réalistes
 75.10	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	sensibilité	tonality	sensibilité
-75.13	r_s	sensibilité, retour à la nature	retour à la nature	tonality	non-fiction
+75.10	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	tendances réalistes	tonality	tendances réalistes
+75.13	r_s	sensibilité, retour à la nature	retour à la nature	tonality	attachement à la nature
 75.13	r_s	sensibilité, retour à la nature	sensibilité	tonality	sensibilité
 75.14	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 75.15	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
@@ -496,15 +471,15 @@ id	Spalte	text	Keyword	property	Konzept
 76.17	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
 76.24	r_s	ton satirique	ton satirique	tonality	satire
 76.26	r_s	mélancolie, désespoir	mélancolie	tonality	mélancolie
-76.28bis	r_s	ton plaisant	ton plaisant	tonality	ton léger
+76.28bis	r_s	ton plaisant	ton plaisant	tonality	ton gai
 76.30	r_s	sensibilité effrénée, malheurs, vertu	sensibilité	tonality	sensibilité
 76.33	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 76.39	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 76.43	r_s	influence d’Emile	influence d’Emile	tonality	manière imitée (parodie)
-76.44	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	tendances réalistes	tonality	tendances réalistes
 76.44	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	sensibilité	tonality	sensibilité
+76.44	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	tendances réalistes	tonality	tendances réalistes
 76.45	r_s	ton satirique	ton satirique	tonality	satire
-76.47	r_s	narration entrecoupée de commentaires facétieux	facétie	tonality	ton léger
+76.47	r_s	narration entrecoupée de commentaires facétieux	facétie	tonality	ton gai
 76.49	r_s	sensibilité	sensibilité	tonality	sensibilité
 76.50	r_s	sensibilité	sensibilité	tonality	sensibilité
 76.51	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -527,8 +502,8 @@ id	Spalte	text	Keyword	property	Konzept
 77.8	r_s	sensibilité effrénée, effets d’horreur	sensibilité	tonality	sensibilité
 77.9	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
 78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	mélancolie	tonality	mélancolie
-78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	tendances réalistes	tonality	tendances réalistes
 78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	sensibilité	tonality	sensibilité
+78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	tendances réalistes	tonality	tendances réalistes
 78.12	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 78.13	r_s	sensibilité	sensibilité	tonality	sensibilité
 78.15	r_s	ton satirique	ton satirique	tonality	satire
@@ -545,32 +520,32 @@ id	Spalte	text	Keyword	property	Konzept
 78.4	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
 78.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 79.1	r_s	ton satirique	ton satirique	tonality	satire
-79.10	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 79.10	r_s	ton satirique, tendances réalistes	ton satirique	tonality	satire
+79.10	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 79.11	r_s	ton satirique	ton satirique	tonality	satire
-79.15	r_s	ton libre	ton libre	tonality	ton léger
+79.15	r_s	ton libre	ton libre	tonality	ton gai
 79.2	r_s	sensibilité	sensibilité	tonality	sensibilité
 79.23	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 79.26	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-79.31	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	tendances réalistes	tonality	tendances réalistes
 79.31	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
+79.31	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	tendances réalistes	tonality	tendances réalistes
 79.32	r_s	ton satirique	ton satirique	tonality	satire
 79.34	r_s	sensibilité	sensibilité	tonality	sensibilité
 79.35	r_s	sensibilité	sensibilité	tonality	sensibilité
 79.36	r_s	ton satirique	ton satirique	tonality	satire
 79.4	r_s	sensibilité	sensibilité	tonality	sensibilité
-79.5	r_s	ton libre	ton libre	tonality	ton léger
+79.5	r_s	ton libre	ton libre	tonality	ton gai
 79.8	r_s	sensibilité	sensibilité	tonality	sensibilité
 79.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 80.10	r_s	sensibilité	sensibilité	tonality	sensibilité
 80.11	r_s	sensibilité	sensibilité	tonality	sensibilité
 80.12	r_s	description et critique de l’organisation politique de la République	critique	tonality	critique
+80.16	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	retour à la nature	tonality	attachement à la nature
 80.16	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	thèmes anticléricaux	tonality	critique
-80.16	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	retour à la nature	tonality	non-fiction
 80.17	r_s	critique des mœurs anglaises	critique	tonality	critique
 80.18	r_s	ton satirique	ton satirique	tonality	satire
 80.2	r_s	pseudo-épopée au ton léger	pseudo-épopée	tonality	style élevé
-80.2	r_s	pseudo-épopée au ton léger	ton léger	tonality	ton léger
+80.2	r_s	pseudo-épopée au ton léger	pseudo-épopée au ton léger	tonality	ton gai
 80.20	r_s	sensibilité	sensibilité	tonality	sensibilité
 80.24	r_s	sensibilité, analyse des passions	sensibilité	tonality	sensibilité
 80.27	r_s	réalisme du cadre, autobiographie romancée, sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
@@ -609,12 +584,12 @@ id	Spalte	text	Keyword	property	Konzept
 82.40	r_s	sensibilité	sensibilité	tonality	sensibilité
 83.1	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
 83.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.12	r_s	ton gai	ton gai	tonality	ton léger
+83.12	r_s	ton gai	ton gai	tonality	ton gai
 83.16	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 83.2	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
 83.20	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
 83.21	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-83.22	r_s	sensibilité, malheurs; vie à la campagne	vie à la campagne	tonality	non-fiction
+83.22	r_s	sensibilité, malheurs; vie à la campagne	vie à la campagne	tonality	attachement à la nature
 83.22	r_s	sensibilité, malheurs; vie à la campagne	sensibilité	tonality	sensibilité
 83.23	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
 83.33	r_s	nature, vertu, sensibilité, mélancolie	mélancolie	tonality	mélancolie
@@ -622,7 +597,7 @@ id	Spalte	text	Keyword	property	Konzept
 83.35	r_s	sensibilité	sensibilité	tonality	sensibilité
 83.36	r_s	genre troubadour	genre troubadour	tonality	style poétique
 83.39	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.4	r_s	ton facétieux	ton facétieux	tonality	ton léger
+83.4	r_s	ton facétieux	ton facétieux	tonality	ton gai
 83.41	r_s	mélancolie, désespoir, poème en prose	mélancolie	tonality	mélancolie
 83.43	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
 83.46	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -636,10 +611,10 @@ id	Spalte	text	Keyword	property	Konzept
 84.13	r_s	sensibilité	sensibilité	tonality	sensibilité
 84.17	r_s	sensibilité	sensibilité	tonality	sensibilité
 84.21	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-84.22	r_s	ton plaisant	ton plaisant	tonality	ton léger
+84.22	r_s	ton plaisant	ton plaisant	tonality	ton gai
 84.23	r_s	ton satirique	ton satirique	tonality	satire
 84.28	r_s	tendances réalistes, ton facétieux	tendances réalistes	tonality	tendances réalistes
-84.28	r_s	tendances réalistes, ton facétieux	ton facétieux	tonality	ton léger
+84.28	r_s	tendances réalistes, ton facétieux	ton facétieux	tonality	ton gai
 84.29	r_s	sensibilité, style épique	sensibilité	tonality	sensibilité
 84.29	r_s	sensibilité, style épique	style épique	tonality	style épique
 84.3	r_s	critique polémique	critique	tonality	critique
@@ -675,7 +650,7 @@ id	Spalte	text	Keyword	property	Konzept
 86.1	r_s	sensibilité	sensibilité	tonality	sensibilité
 86.11	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
 86.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.27	r_s	sensibilité, vie à la campagne	vie à la campagne	tonality	non-fiction
+86.27	r_s	sensibilité, vie à la campagne	vie à la campagne	tonality	attachement à la nature
 86.27	r_s	sensibilité, vie à la campagne	sensibilité	tonality	sensibilité
 86.29	r_s	sensibilité	sensibilité	tonality	sensibilité
 86.33	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -702,8 +677,7 @@ id	Spalte	text	Keyword	property	Konzept
 87.29	r_s	style élevé, nature, sensibilité	style élevé	tonality	style élevé
 87.30	r_s	sensibilité	sensibilité	tonality	sensibilité
 87.31	r_s	ton satirique	ton satirique	tonality	satire
-87.33	r_s	ton léger	ton léger	tonality	ton léger
-87.34	r_s	ton plaisant, avec des notes facétieuses	ton plaisant	tonality	ton léger
+87.34	r_s	ton plaisant, avec des notes facétieuses	ton plaisant	tonality	ton gai
 87.35	r_s	sensibilité, intentions didactiques	sensibilité	tonality	sensibilité
 87.37	r_s	sensibilité	sensibilité	tonality	sensibilité
 87.4	r_s	observations politiques, thèmes philosophiques, pseudo-épopée	pseudo-épopée	tonality	style élevé
@@ -714,7 +688,7 @@ id	Spalte	text	Keyword	property	Konzept
 87.68	r_s	ton satirique	ton satirique	tonality	satire
 87.8	r_s	sensibilité débordante	sensibilité	tonality	sensibilité
 88.10	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	A la manière du Voyage sentimental de Sterne	tonality	manière imitée (parodie)
-88.10	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	ton facétieux	tonality	ton léger
+88.10	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	ton facétieux	tonality	ton gai
 88.102	r_s	sensibilité	sensibilité	tonality	sensibilité
 88.105	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
 88.106	r_s	cadre pastoral, forte couleur locale	forte couleur locale	tonality	couleur locale
@@ -753,7 +727,6 @@ id	Spalte	text	Keyword	property	Konzept
 88.86	r_s	ton satirique	ton satirique	tonality	satire
 88.87	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
 88.87	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-88.89	r_s	ton léger	ton léger	tonality	ton léger
 88.9	r_s	sensibilité	sensibilité	tonality	sensibilité
 88.91	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
 88.96	r_s	ton satirique	ton satirique	tonality	satire
@@ -796,14 +769,13 @@ id	Spalte	text	Keyword	property	Konzept
 89.82	r_s	prétentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
 89.83	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
 89.85	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.9	r_s	ton libre	ton libre	tonality	ton léger
+89.9	r_s	ton libre	ton libre	tonality	ton gai
 89.90	r_s	allégories, ton sentimental	allégorie	tonality	allégorie
 89.90	r_s	allégories, ton sentimental	ton sentimental	tonality	ton sentimental
 89.95	r_s	fortes tendances réalistes	tendances réalistes	tonality	tendances réalistes
 89.97	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
 89.98	r_s	allégorie	allégorie	tonality	allégorie
 90.1	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-90.11	r_s	ton léger	ton léger	tonality	ton léger
 90.13	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
 90.17	r_s	ton satirique	ton satirique	tonality	satire
 90.25	r_s	couleur locale (mots tahitiens dans le texte)	couleur locale	tonality	couleur locale
@@ -812,8 +784,8 @@ id	Spalte	text	Keyword	property	Konzept
 90.39	r_s	style poétique	style poétique	tonality	style poétique
 90.40	r_s	ton satirique, style ’ancien ’	ton satirique	tonality	satire
 90.40	r_s	ton satirique, style ’ancien ’	style ’ancien ’	tonality	vieux langage
+90.41	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	éloge de la vie simple	tonality	attachement à la nature
 90.41	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	mélancolie	tonality	mélancolie
-90.41	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	éloge de la vie simple	tonality	non-fiction
 90.44	r_s	dans le genre du Roman comique de Scarron, intentions satiriques	dans le genre du Roman comique de Scarron	tonality	manière imitée (parodie)
 90.50	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
 90.52	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -841,13 +813,13 @@ id	Spalte	text	Keyword	property	Konzept
 92.30	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
 92.33	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
 92.34	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-92.39	r_s	style héroï-comique	style héroï-comique	tonality	ton léger
+92.39	r_s	style héroï-comique	style héroï-comique	tonality	ton gai
 92.7	r_s	satire des mœurs	satire	tonality	satire
 92.8	r_s	récit d’après un tableau de Raphaël	récit d’après un tableau de Raphaël	tonality	contes
 93.11	r_s	sensibilité	sensibilité	tonality	sensibilité
 93.12	r_s	ton moralisateur, sensibilité	sensibilité	tonality	sensibilité
 93.13	r_s	sensibilité	sensibilité	tonality	sensibilité
-93.15	r_s	ton héroï-comique	ton héroï-comique	tonality	ton léger
+93.15	r_s	ton héroï-comique	ton héroï-comique	tonality	ton gai
 93.4	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
 93.5	r_s	satire politique, religieuse, médicale	satire	tonality	satire
 93.6	r_s	attaques contre les monarques	attaques contre les monarques	tonality	critique
@@ -878,13 +850,12 @@ id	Spalte	text	Keyword	property	Konzept
 96.40	r_s	genre troubadour	genre troubadour	tonality	style poétique
 96.42	r_s	ton sensible	ton sensible	tonality	sensibilité
 96.5	r_s	détails pornographiques	détails pornographiques	tonality	précisions pornographiques
-96.50	r_s	ton facétieux	ton facétieux	tonality	ton léger
+96.50	r_s	ton facétieux	ton facétieux	tonality	ton gai
 96.52	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
 96.7	r_s	sensibilité, mais des éléments comiques aussi	sensibilité	tonality	sensibilité
 97.1	r_s	sensibilité larmoyante, prose poétique entremêlée de vers	sensibilité	tonality	sensibilité
 97.1	r_s	sensibilité larmoyante, prose poétique entremêlée de vers	prose poétique	tonality	style poétique
 97.10	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.13	r_s	ton léger	ton léger	tonality	ton léger
 97.14	r_s	sensibilité, nature	sensibilité	tonality	sensibilité
 97.17	r_s	conte philosophique	conte philosophique	tonality	contes
 97.19	r_s	peinture des mœurs, ton satirique	ton satirique	tonality	satire
@@ -898,7 +869,6 @@ id	Spalte	text	Keyword	property	Konzept
 97.36	r_s	sensibilité, but moralisateur	sensibilité	tonality	sensibilité
 97.4	r_s	sensibilité	sensibilité	tonality	sensibilité
 97.42	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.49	r_s	ton léger	ton léger	tonality	ton léger
 97.58	r_s	mélancolie, roman noir	mélancolie	tonality	mélancolie
 97.59	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
 97.59	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
@@ -928,7 +898,7 @@ id	Spalte	text	Keyword	property	Konzept
 98.30	r_s	nature, vertu, sensibilité	sensibilité	tonality	sensibilité
 98.31	r_s	sensibilité	sensibilité	tonality	sensibilité
 98.33	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.34	r_s	construction désordonnée, ton satirique et facétieux	ton satirique et facétieux	tonality	ton léger
+98.34	r_s	construction désordonnée, ton satirique et facétieux	ton satirique et facétieux	tonality	ton gai
 98.34	r_s	construction désordonnée, ton satirique et facétieux	ton satirique	tonality	satire
 98.39	r_s	sensibilité	sensibilité	tonality	sensibilité
 98.42	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -940,7 +910,6 @@ id	Spalte	text	Keyword	property	Konzept
 98.55	r_s	vertu, simplicité, sensibilité	sensibilité	tonality	sensibilité
 98.56	r_s	sensibilité	sensibilité	tonality	sensibilité
 98.58	r_s	ton satirique	ton satirique	tonality	satire
-98.59	r_s	ton léger	ton léger	tonality	ton léger
 98.60	r_s	tendances réalistes et satiriques	tendances réalistes	tonality	tendances réalistes
 98.61	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
 98.66	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
@@ -960,7 +929,7 @@ id	Spalte	text	Keyword	property	Konzept
 98.96	r_s	bienfaisance, sensibilité	sensibilité	tonality	sensibilité
 98.97	r_s	sensibilité	sensibilité	tonality	sensibilité
 99.10	r_s	ton gai, éléments réalistes	éléments réalistes	tonality	tendances réalistes
-99.10	r_s	ton gai, éléments réalistes	ton gai	tonality	ton léger
+99.10	r_s	ton gai, éléments réalistes	ton gai	tonality	ton gai
 99.100	r_s	ton satirique	ton satirique	tonality	satire
 99.103	r_s	sensibilité	sensibilité	tonality	sensibilité
 99.109	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
@@ -981,9 +950,8 @@ id	Spalte	text	Keyword	property	Konzept
 99.136	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
 99.137	r_s	sensibilité	sensibilité	tonality	sensibilité
 99.138	r_s	sensibilité exaltée	sensibilité	tonality	sensibilité
-99.141	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 99.141	r_s	ton satirique, tendances réalistes	ton satirique	tonality	satire
-99.144	r_s	ton léger, intentions moralisatrices	ton léger	tonality	ton léger
+99.141	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
 99.146	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
 99.147	r_s	sensibilité effrénée, éléments du roman noir	sensibilité	tonality	sensibilité
 99.151	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -992,9 +960,9 @@ id	Spalte	text	Keyword	property	Konzept
 99.158	r_s	critique sociale, ton moralisateur et sensible	critique	tonality	critique
 99.158	r_s	critique sociale, ton moralisateur et sensible	ton moralisateur et sensible	tonality	sensibilité
 99.160	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	éléments merveilleux	tonality	conte de fée
-99.160	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	ton facétieux	tonality	ton léger
+99.160	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	ton facétieux	tonality	ton gai
 99.161	r_s	parodie des romans à la mode	parodie des romans à la mode	tonality	manière imitée (parodie)
-99.163	r_s	retour à la nature	retour à la nature	tonality	non-fiction
+99.163	r_s	retour à la nature	retour à la nature	tonality	attachement à la nature
 99.164	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
 99.167	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
 99.168	r_s	sensibilité	sensibilité	tonality	sensibilité
@@ -1004,7 +972,6 @@ id	Spalte	text	Keyword	property	Konzept
 99.174	r_s	mélancolie, sensibilité, épisodes sombres	sensibilité	tonality	sensibilité
 99.18	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
 99.19	r_s	peinture des mœurs, sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-99.22	r_s	ton léger	ton léger	tonality	ton léger
 99.24	r_s	sensibilité effrenée	sensibilité	tonality	sensibilité
 99.28	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
 99.3	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
@@ -1027,13 +994,11 @@ id	Spalte	text	Keyword	property	Konzept
 99.66	r_s	sensibilité	sensibilité	tonality	sensibilité
 99.69	r_s	sensibilité	sensibilité	tonality	sensibilité
 99.70	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.74	r_s	ton léger	ton léger	tonality	ton léger
 99.75	r_s	sensibilité	sensibilité	tonality	sensibilité
 99.77	r_s	sensibilité, nature, vertu	sensibilité	tonality	sensibilité
 99.79	r_s	épopée en prose poétique	prose poétique	tonality	style poétique
 99.82	r_s	genre troubadour	genre troubadour	tonality	style poétique
 99.83	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.84	r_s	ton léger	ton léger	tonality	ton léger
 99.87	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
 99.88	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
 99.89	r_s	style poétique	style poétique	tonality	style poétique
@@ -1077,14 +1042,13 @@ id	Spalte	text	Keyword	property	Konzept
 83.31	r_s	sensibilité larmoyante.	sensibilité	tonality	sensibilité
 83.40	r_s	précisions pornographiques.	précisions pornographiques	tonality	précisions pornographiques
 83.42	r_s	ton sensible.	ton sensible	tonality	sensibilité
-84.58	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	tendances réalistes	tonality	tendances réalistes
 84.58	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	sensibilité	tonality	sensibilité
+84.58	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	tendances réalistes	tonality	tendances réalistes
 85.24	r_s	critique sociale, analyse psychologique.	critique	tonality	critique
-86.27	r_s	sensibilité, vie à la campagne.	vie à la campagne	tonality	non-fiction
+86.27	r_s	sensibilité, vie à la campagne.	vie à la campagne	tonality	attachement à la nature
 86.27	r_s	sensibilité, vie à la campagne.	sensibilité	tonality	sensibilité
-87.54bis	r_s	sensibilité passionnée, retour à la nature.	retour à la nature	tonality	non-fiction
+87.54bis	r_s	sensibilité passionnée, retour à la nature.	retour à la nature	tonality	attachement à la nature
 87.54bis	r_s	sensibilité passionnée, retour à la nature.	sensibilité	tonality	sensibilité
-87.56	r_s	ton léger.	ton léger	tonality	ton léger
 88.53	r_s	style poétique.	style poétique	tonality	style poétique
 90.47	r_s	ton satirique.	ton satirique	tonality	satire
 91.42	r_s	détails pornographiques.	détails pornographiques	tonality	précisions pornographiques
