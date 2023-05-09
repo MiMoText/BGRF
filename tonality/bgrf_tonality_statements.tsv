@@ -1,1062 +1,835 @@
-id	Spalte	text	Keyword	property	Konzept
-00.10	r_s	ton sensible, réflexions morales	ton sensible	tonality	sensibilité
-00.100	r_s	ton satirique	ton satirique	tonality	satire
-00.102	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.114	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-00.117	r_s	ton léger mêlé de sensibilité	sensibilité	tonality	sensibilité
-00.117	r_s	ton léger mêlé de sensibilité	ton léger mêlé de sensibilité	tonality	ton gai
-00.118	r_s	couleur locale	couleur locale	tonality	couleur locale
-00.121	r_s	ton satirique, tendances réalistes	ton satirique	tonality	satire
-00.121	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-00.126	r_s	ton sensible	ton sensible	tonality	sensibilité
-00.130	r_s	éléments historiques, sensibilité, mélancolie	mélancolie	tonality	mélancolie
-00.130	r_s	éléments historiques, sensibilité, mélancolie	sensibilité	tonality	sensibilité
-00.131	r_s	sensibilité, éléments du roman noir	sensibilité	tonality	sensibilité
-00.137	r_s	critique des mœurs et des institutions (à la manière des Lettres persanes)	critique	tonality	critique
-00.137	r_s	critique des mœurs et des institutions (à la manière des Lettres persanes)	à la manière des Lettres persanes	tonality	manière imitée (parodie)
-00.138	r_s	ton satirique	ton satirique	tonality	satire
-00.140	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.141	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.143	r_s	couleur locale, éléments merveilleux	éléments merveilleux	tonality	conte de fée
-00.143	r_s	couleur locale, éléments merveilleux	couleur locale	tonality	couleur locale
-00.144	r_s	ton facétieux	ton facétieux	tonality	ton gai
-00.145	r_s	genre troubadour	genre troubadour	tonality	style poétique
-00.146	r_s	sensibilité et prétentions moralisatrices	sensibilité	tonality	sensibilité
-00.149	r_s	mélancolie, mystères, sensibilité	mélancolie	tonality	mélancolie
-00.149	r_s	mélancolie, mystères, sensibilité	sensibilité	tonality	sensibilité
-00.150	r_s	tableau de mœurs, ton sensible et moralisateur	ton sensible	tonality	sensibilité
-00.151	r_s	ton satirique	ton satirique	tonality	satire
-00.155	r_s	éléments merveilleux, prose poétique	éléments merveilleux	tonality	conte de fée
-00.155	r_s	éléments merveilleux, prose poétique	prose poétique	tonality	style poétique
-00.16	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-00.18	r_s	peinture des mœurs, ton sentimental	ton sentimental	tonality	ton sentimental
-00.19	r_s	ton satirique	ton satirique	tonality	satire
-00.21	r_s	ton satirique	ton satirique	tonality	satire
-00.26	r_s	bienfaisance, sensibilité	sensibilité	tonality	sensibilité
-00.28	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-00.43	r_s	ton satirique	ton satirique	tonality	satire
-00.44	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.48	r_s	ton sensible	ton sensible	tonality	sensibilité
-00.54	r_s	sensibilité, mélancolie, éléments du roman noir (grotte, couvents)	éléments du roman noir (grotte, couvents)	tonality	manière imitée (parodie)
-00.54	r_s	sensibilité, mélancolie, éléments du roman noir (grotte, couvents)	mélancolie	tonality	mélancolie
-00.54	r_s	sensibilité, mélancolie, éléments du roman noir (grotte, couvents)	sensibilité	tonality	sensibilité
-00.57	r_s	style familier, ton satirique	ton satirique	tonality	satire
-00.60	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-00.60	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-00.62	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-00.63	r_s	ton sentimental, réflexions morales	ton sentimental	tonality	ton sentimental
-00.64	r_s	précisions pornographiques, ton satirique	précisions pornographiques	tonality	précisions pornographiques
-00.64	r_s	précisions pornographiques, ton satirique	ton satirique	tonality	satire
-00.65	r_s	ton léger, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-00.66	r_s	ton satirique, thèmes philosophiques, sensibilité	ton satirique	tonality	satire
-00.66	r_s	ton satirique, thèmes philosophiques, sensibilité	sensibilité	tonality	sensibilité
-00.7	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.70	r_s	sensibilité, roman noir	sensibilité	tonality	sensibilité
-00.74	r_s	ton sensible	ton sensible	tonality	sensibilité
-00.75	r_s	sensibilité, but moralisateur	sensibilité	tonality	sensibilité
-00.82	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.90	r_s	vertu, sensibilité, aventures sombres	sensibilité	tonality	sensibilité
-00.96	r_s	sensibilité	sensibilité	tonality	sensibilité
-00.97	r_s	ton satirique	ton satirique	tonality	satire
-51.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-51.10	r_s	prose poétique	prose poétique	tonality	style poétique
-51.25	r_s	sensibilité	sensibilité	tonality	sensibilité
-51.3	r_s	sensibilité	sensibilité	tonality	sensibilité
-51.31	r_s	observations sur les mœurs européennes, ton plaisant	ton plaisant	tonality	ton gai
-51.32	r_s	dans le style de Prévost	dans le style de Prévost	tonality	manière imitée (parodie)
-51.34	r_s	vogue du genre troubadour	vogue du genre troubadour	tonality	manière imitée (parodie)
-51.34	r_s	vogue du genre troubadour	genre troubadour	tonality	style poétique
-51.36	r_s	autobiographie romancée, avec traits satiriques	traits satiriques	tonality	satire
-51.38	r_s	ton satirique	ton satirique	tonality	satire
-51.39	r_s	satire de la religion chrétienne, du luxe, etc.	satire	tonality	satire
-51.40	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-51.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-52.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-52.17	r_s	ton satirique	ton satirique	tonality	satire
-52.18	r_s	ton satirique	ton satirique	tonality	satire
-52.21	r_s	satire des mœurs	satire	tonality	satire
-52.26	r_s	sensibilité	sensibilité	tonality	sensibilité
-52.28	r_s	ton satirique	ton satirique	tonality	satire
-52.29	r_s	ton pseudo-historique et sensible	ton pseudo-historique et sensible	tonality	sensibilité
-52.31	r_s	style grandiose	style grandiose	tonality	style élevé
-52.32	r_s	conte allégorique; style poétique	allégorique	tonality	allégorie
-52.32	r_s	conte allégorique; style poétique	style poétique	tonality	style poétique
-52.4	r_s	conte de fée avec des traits satiriques	conte de fée	tonality	conte de fée
-52.4	r_s	conte de fée avec des traits satiriques	traits satiriques	tonality	satire
-52.40	r_s	ton réaliste	ton réaliste	tonality	tendances réalistes
-52.41	r_s	sensibilité	sensibilité	tonality	sensibilité
-52.42	r_s	sensibilité	sensibilité	tonality	sensibilité
-52.7	r_s	sensibilité	sensibilité	tonality	sensibilité
-53.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-53.12	r_s	style poétique	style poétique	tonality	style poétique
-53.13	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-53.14	r_s	réflexions morales, sensibilité	sensibilité	tonality	sensibilité
-53.17	r_s	ton réaliste et humoristique	ton réaliste	tonality	tendances réalistes
-53.23	r_s	conte oriental merveilleux	conte oriental merveilleux	tonality	contes
-53.27	r_s	sensibilité	sensibilité	tonality	sensibilité
-53.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-53.31	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-53.33	r_s	allégorie humoristique, en forme de rêve, sur des questions d’eugénique	allégorie	tonality	allégorie
-53.4	r_s	conversations sur l’amour; conte merveilleux	conversations sur l’amour	tonality	ton sentimental
-53.5	r_s	ton satirique	ton satirique	tonality	satire
-53.7	r_s	conte de fées	conte de fée	tonality	conte de fée
-53.8	r_s	ton satirique	ton satirique	tonality	satire
-54.10	r_s	ton satirique	ton satirique	tonality	satire
-54.2	r_s	détails pornographiques	détails pornographiques	tonality	précisions pornographiques
-54.26	r_s	critique des mœurs	critique	tonality	critique
-54.6	r_s	ton satirique	ton satirique	tonality	satire
-55.10	r_s	ton scabreux	ton scabreux	tonality	satire
-55.11	r_s	critique des mœurs, ton satirique	critique	tonality	critique
-55.11	r_s	critique des mœurs, ton satirique	ton satirique	tonality	satire
-55.13	r_s	ton satirique	ton satirique	tonality	satire
-55.17	r_s	facétie grossière	facétie	tonality	ton gai
-55.18	r_s	conte de fées	conte de fée	tonality	conte de fée
-55.19	r_s	thèses féministes	thèses féministes	tonality	critique
-55.20	r_s	sensibilité	sensibilité	tonality	sensibilité
-55.21	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
-55.22	r_s	sensibilité	sensibilité	tonality	sensibilité
-55.23	r_s	conte de fées	conte de fée	tonality	conte de fée
-55.27	r_s	parodie des récits de voyages, ton pseudo-héroïque	parodie des récits de voyages	tonality	manière imitée (parodie)
-55.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-55.29	r_s	ton libre	ton libre	tonality	ton gai
-55.32	r_s	ton facétieux	ton facétieux	tonality	ton gai
-55.34	r_s	style poétique	style poétique	tonality	style poétique
-55.35	r_s	mythologie et féerie	mythologie et féerie	tonality	conte de fée
-55.38	r_s	éléments satiriques	éléments satiriques	tonality	satire
-56.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-56.17	r_s	facétie grossière	facétie	tonality	ton gai
-56.2	r_s	critique des couvents	critique	tonality	critique
-56.28	r_s	prétentions moralisatrices, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-56.3	r_s	ton anti-religieux	ton anti-religieux	tonality	critique
-56.7	r_s	ton ordurier, style poissard	ton ordurier	tonality	précisions pornographiques
-56.8	r_s	sensibilité	sensibilité	tonality	sensibilité
-57.10	r_s	satire du parti des Philosophes	satire	tonality	satire
-57.14	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	tonality	mélancolie
-57.14	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	tonality	sensibilité
-57.15	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	tonality	mélancolie
-57.15	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	tonality	sensibilité
-57.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-57.3	r_s	ton libre, fin moralisatrice	ton libre	tonality	ton gai
-57.7	r_s	ton satirique	ton satirique	tonality	satire
-58.1	r_s	ton satirique, réflexions philosophiques	ton satirique	tonality	satire
-58.15	r_s	réflexions philosophiques, sensibilité	sensibilité	tonality	sensibilité
-58.21	r_s	épopée burlesque	épopée burlesque	tonality	style poétique
-58.4	r_s	sensibilité	sensibilité	tonality	sensibilité
-58.7	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-59.17	r_s	Les voiages de la Raison, fable allégorique	allégorique	tonality	allégorie
-59.4	r_s	ton réaliste	ton réaliste	tonality	tendances réalistes
-59.9	r_s	ton satirique	ton satirique	tonality	satire
-60.1	r_s	ton satirique	ton satirique	tonality	satire
-60.10	r_s	sensibilité	sensibilité	tonality	sensibilité
-60.14	r_s	ton satirique	ton satirique	tonality	satire
-60.15	r_s	style grandiose, pseudo-épopée	style grandiose	tonality	style élevé
-60.16	r_s	ton épique, prose poétique	prose poétique	tonality	style poétique
-60.2	r_s	correspondance sentimentale	correspondance sentimentale	tonality	ton sentimental
-60.20	r_s	sensibilité, mélancolie, réflexions	mélancolie	tonality	mélancolie
-60.20	r_s	sensibilité, mélancolie, réflexions	sensibilité	tonality	sensibilité
-60.24	r_s	ton satirique	ton satirique	tonality	satire
-60.27	r_s	satire de Palissot et de ses protecteurs	satire	tonality	satire
-60.28	r_s	sensibilité, mélancolie.	mélancolie	tonality	mélancolie
-60.28	r_s	sensibilité, mélancolie.	sensibilité	tonality	sensibilité
-60.33	r_s	ton plaisant	ton plaisant	tonality	ton gai
-61.18	r_s	sensibilité	sensibilité	tonality	sensibilité
-61.20	r_s	ton ironique	ton ironique	tonality	satire
-61.22	r_s	ton satirique	ton satirique	tonality	satire
-61.25	r_s	Utopie et tendances satiriques	Utopie et tendances satiriques	tonality	satire
-61.3	r_s	ton satirique	ton satirique	tonality	satire
-61.7	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
-61.9	r_s	sensibilité, fatalité	sensibilité	tonality	sensibilité
-62.14	r_s	sensibilité	sensibilité	tonality	sensibilité
-62.16	r_s	but moralisateur, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-62.32	r_s	ton sensible	ton sensible	tonality	sensibilité
-62.34	r_s	sensibilité, but moralisateur	sensibilité	tonality	sensibilité
-62.36	r_s	satire des disputes entre Jésuites et Capucins	satire	tonality	satire
-62.37	r_s	critique des mœurs	critique	tonality	critique
-62.6	r_s	ton licencieux	ton licencieux	tonality	ton gai
-62.7	r_s	critique des mœurs à la manière du Diable boiteux	critique	tonality	critique
-63.10	r_s	ton satirique	ton satirique	tonality	satire
-63.14	r_s	ton libre	ton libre	tonality	ton gai
-63.23	r_s	sensibilité	sensibilité	tonality	sensibilité
-63.24	r_s	sensibilité	sensibilité	tonality	sensibilité
-63.30	r_s	critique des mœurs, ton comique	critique	tonality	critique
-63.32	r_s	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	tonality	satire
-63.32	r_s	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	parodie	tonality	manière imitée (parodie)
-63.41	r_s	sensibilité, mélancolie, analyse de l’amour	mélancolie	tonality	mélancolie
-63.41	r_s	sensibilité, mélancolie, analyse de l’amour	sensibilité	tonality	sensibilité
-63.42	r_s	remarques sur les mœurs, les institutions, thèmes philosophiques, ton satirique	ton satirique	tonality	satire
-63.5	r_s	satire contre les Jésuites	satire contre les Jésuites	tonality	satire
-63.7	r_s	sensibilité effrénée (parodie de la Nouvelle Héloïse)	sensibilité effrénée (parodie de la Nouvelle Héloïse)	tonality	sensibilité
-63.7	r_s	sensibilité effrénée (parodie de la Nouvelle Héloïse)	parodie	tonality	manière imitée (parodie)
-63.8	r_s	but moralisateur, sensibilité	sensibilité	tonality	sensibilité
-64.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-64.14	r_s	sensibilité effrénée, ton sombre	sensibilité	tonality	sensibilité
-64.18	r_s	sensibilité	sensibilité	tonality	sensibilité
-64.27	r_s	à la manière des Lettres persanes	à la manière des Lettres persanes	tonality	manière imitée (parodie)
-64.3	r_s	ton moralisateur, sensibilité	sensibilité	tonality	sensibilité
-64.31	r_s	sensibilité, but didactique	sensibilité	tonality	sensibilité
-64.37	r_s	satire du style enflé de l’épopée	satire	tonality	satire
-64.40	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-64.43	r_s	prose poétique	prose poétique	tonality	style poétique
-64.44	r_s	ton satirique	ton satirique	tonality	satire
-64.46	r_s	satire des petits-maîtres	satire	tonality	satire
-64.6	r_s	sensibilité	sensibilité	tonality	sensibilité
-65.11	r_s	critique des mœurs, ton satirique	critique	tonality	critique
-65.11	r_s	critique des mœurs, ton satirique	ton satirique	tonality	satire
-65.15	r_s	style ancien	style ancien	tonality	vieux langage
-65.19	r_s	mélancolie, sensibilité (à la manière de Prévost)	à la manière de Prévost	tonality	manière imitée (parodie)
-65.19	r_s	mélancolie, sensibilité (à la manière de Prévost)	mélancolie	tonality	mélancolie
-65.19	r_s	mélancolie, sensibilité (à la manière de Prévost)	sensibilité	tonality	sensibilité
-65.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-65.20	r_s	tendances réalistes, sensibilité	sensibilité	tonality	sensibilité
-65.20	r_s	tendances réalistes, sensibilité	tendances réalistes	tonality	tendances réalistes
-65.22	r_s	sensibilité	sensibilité	tonality	sensibilité
-65.24	r_s	ton satirique	ton satirique	tonality	satire
-65.25	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-65.26	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-65.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-65.29	r_s	critique des mœurs, réflexions	critique	tonality	critique
-65.31	r_s	extrême sensibilité	sensibilité	tonality	sensibilité
-65.38	r_s	ton satirique	ton satirique	tonality	satire
-65.42	r_s	sensibilité, malheurs, intentions moralisatrices (à la manière de Prévost)	à la manière de Prévost	tonality	manière imitée (parodie)
-65.42	r_s	sensibilité, malheurs, intentions moralisatrices (à la manière de Prévost)	sensibilité	tonality	sensibilité
-65.44	r_s	sensibilité	sensibilité	tonality	sensibilité
-65.7	r_s	ton satirique	ton satirique	tonality	satire
-65.8	r_s	sensibilité	sensibilité	tonality	sensibilité
-66.1	r_s	prose poétique	prose poétique	tonality	style poétique
-66.12	r_s	"langue ancienne (""manuscrit du XIVe siècle"")"	"langue ancienne (""manuscrit du XIVe siècle"")"	tonality	vieux langage
-66.15	r_s	mélancolie, sensibilité (à la manière de Prévost)	à la manière de Prévost	tonality	manière imitée (parodie)
-66.15	r_s	mélancolie, sensibilité (à la manière de Prévost)	mélancolie	tonality	mélancolie
-66.15	r_s	mélancolie, sensibilité (à la manière de Prévost)	sensibilité	tonality	sensibilité
-66.16	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
-66.18	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-66.18	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-66.21	r_s	ton satirique, thèmes philosophiques	ton satirique	tonality	satire
-66.24	r_s	ton satirique	ton satirique	tonality	satire
-66.27	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-66.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-66.30	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-66.35	r_s	thèmes philosophiques, sensibilité, mélancolie	mélancolie	tonality	mélancolie
-66.35	r_s	thèmes philosophiques, sensibilité, mélancolie	sensibilité	tonality	sensibilité
-66.37	r_s	ton satirique	ton satirique	tonality	satire
-66.38	r_s	sensibilité	sensibilité	tonality	sensibilité
-66.42	r_s	sensibilité, malheurs, vertu	sensibilité	tonality	sensibilité
-66.43	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-66.44	r_s	mélancolie, sensibilité	mélancolie	tonality	mélancolie
-66.44	r_s	mélancolie, sensibilité	sensibilité	tonality	sensibilité
-66.5	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-66.8	r_s	allégorie de la vie politique (selon l’auteur)	allégorie	tonality	allégorie
-66.9	r_s	sensibilité effrénée, vertu, bienfaisance	sensibilité	tonality	sensibilité
-67.11	r_s	tendances réalistes au début	tendances réalistes	tonality	tendances réalistes
-67.12	r_s	ton satirique	ton satirique	tonality	satire
-67.14	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-67.15	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-67.16	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-67.17	r_s	sensibilité effrénée, mélancolie, horreur	mélancolie	tonality	mélancolie
-67.17	r_s	sensibilité effrénée, mélancolie, horreur	sensibilité	tonality	sensibilité
-67.18	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-67.18	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-67.21	r_s	sujet biblique; prose poétique	prose poétique	tonality	style poétique
-67.22	r_s	éléments surnaturels (magie Blanche)	éléments surnaturels (magie Blanche)	tonality	conte de fée
-67.24	r_s	sensibilité, bienfaisance, vertu	sensibilité	tonality	sensibilité
-67.26	r_s	A la manière des Lettres persanes	A la manière des Lettres persanes	tonality	manière imitée (parodie)
-67.29	r_s	critique de l’église et des dogmes catholiques	critique	tonality	critique
-67.3	r_s	ton satirique	ton satirique	tonality	satire
-67.30	r_s	quelques tendances réalistes, réflexions sur l’amour et la vertu	tendances réalistes	tonality	tendances réalistes
-67.31	r_s	sensibilité passionnée et mélancolique	mélancolique	tonality	mélancolie
-67.31	r_s	sensibilité passionnée et mélancolique	sensibilité	tonality	sensibilité
-67.34	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-67.35	r_s	ton satirique, ouvrage à clef	ton satirique	tonality	satire
-67.38	r_s	ton satirique	ton satirique	tonality	satire
-67.4	r_s	sensibilité effrénée, vertu	sensibilité	tonality	sensibilité
-67.41	r_s	intentions moralisatrices, vertu, sensibilité	sensibilité	tonality	sensibilité
-67.42	r_s	sensibilité, contre le fanatisme	sensibilité	tonality	sensibilité
-67.43	r_s	sensibilité	sensibilité	tonality	sensibilité
-67.47	r_s	ton satirique	ton satirique	tonality	satire
-67.48	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-67.5	r_s	tendances réalistes, ton comique	tendances réalistes	tonality	tendances réalistes
-67.50	r_s	intentions moralisatrices, ton comique, peinture des mœurs, quelques tendances réalistes	tendances réalistes	tonality	tendances réalistes
-67.52	r_s	ton satirique, sensibilité à la fin	ton satirique	tonality	satire
-67.52	r_s	ton satirique, sensibilité à la fin	sensibilité	tonality	sensibilité
-67.8	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
-68.12	r_s	sensibilité	sensibilité	tonality	sensibilité
-68.19	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	sensibilité	tonality	sensibilité
-68.19	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	tendances réalistes	tonality	tendances réalistes
-68.21	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-68.21	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-68.22	r_s	ton satirique	ton satirique	tonality	satire
-68.23	r_s	satire des institutions économiques	satire	tonality	satire
-68.25	r_s	"sensibilité, mélancolie, passions funestes, héros ""philosophe"""	mélancolie	tonality	mélancolie
-68.25	r_s	"sensibilité, mélancolie, passions funestes, héros ""philosophe"""	sensibilité	tonality	sensibilité
-68.26	r_s	ton satirique	ton satirique	tonality	satire
-68.29	r_s	sensibilité, mélancolie, héros ‘philosophe’ (à la manière de Prévost)	à la manière de Prévost	tonality	manière imitée (parodie)
-68.29	r_s	sensibilité, mélancolie, héros ‘philosophe’ (à la manière de Prévost)	mélancolie	tonality	mélancolie
-68.29	r_s	sensibilité, mélancolie, héros ‘philosophe’ (à la manière de Prévost)	sensibilité	tonality	sensibilité
-68.34	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-68.34	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-68.36	r_s	sensibilité	sensibilité	tonality	sensibilité
-68.37	r_s	sensibilité effrénée, mélancolie (’J’ai déjà trop vécu ’)	mélancolie	tonality	mélancolie
-68.37	r_s	sensibilité effrénée, mélancolie (’J’ai déjà trop vécu ’)	sensibilité	tonality	sensibilité
-68.38	r_s	ton satirique	ton satirique	tonality	satire
-68.41	r_s	ton satirique	ton satirique	tonality	satire
-68.43	r_s	ton facétieux	ton facétieux	tonality	ton gai
-68.44	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
-68.5	r_s	mélancolie, sensibilité	mélancolie	tonality	mélancolie
-68.5	r_s	mélancolie, sensibilité	sensibilité	tonality	sensibilité
-68.53	r_s	ton satirique, intentions moralisatrices	ton satirique	tonality	satire
-68.56	r_s	critique des mœurs, thèmes philosophiques	critique	tonality	critique
-68.5bis	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-68.7	r_s	sensibilité	sensibilité	tonality	sensibilité
-68.8	r_s	sensibilité, vertu, intentions moralisatrices, peinture des mœurs	sensibilité	tonality	sensibilité
-68.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.11	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
-69.12	r_s	intentions moralisatrices, sensibilité effrénée, mélancolie	mélancolie	tonality	mélancolie
-69.12	r_s	intentions moralisatrices, sensibilité effrénée, mélancolie	sensibilité	tonality	sensibilité
-69.13	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-69.14	r_s	ton satirique	ton satirique	tonality	satire
-69.2	r_s	bienfaisance, vertu, sensibilité	sensibilité	tonality	sensibilité
-69.20	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.23	r_s	ton noble, couleur locale	couleur locale	tonality	couleur locale
-69.23	r_s	ton noble, couleur locale	ton noble	tonality	style élevé
-69.25	r_s	ton satirique	ton satirique	tonality	satire
-69.29	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
-69.30	r_s	ton sensible, intentions moralisatrices	ton sensible	tonality	sensibilité
-69.31	r_s	ton frivole	ton frivole	tonality	ton gai
-69.35	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.40	r_s	peinture des mœurs et observations morales, ton satirique	ton satirique	tonality	satire
-69.41	r_s	vertu, sensibilité	sensibilité	tonality	sensibilité
-69.44	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.49	r_s	ton facétieux	ton facétieux	tonality	ton gai
-69.5	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.50	r_s	vertu, sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-69.51	r_s	sensibilité	sensibilité	tonality	sensibilité
-69.52	r_s	ton satirique	ton satirique	tonality	satire
-69.56	r_s	sensibilité, vertu, prétentions moralisatrices	sensibilité	tonality	sensibilité
-69.60	r_s	prétentions moralisatrices, sensibilité effrénée	sensibilité	tonality	sensibilité
-69.63	r_s	ton satirique	ton satirique	tonality	satire
-69.64	r_s	ton satirique, fantaisiste	ton satirique	tonality	satire
-69.64bis	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-69.65	r_s	sensibilité effrénée, analyse des sentiments	sensibilité	tonality	sensibilité
-69.69	r_s	critique de l’Eglise, thèmes philosophiques	critique	tonality	critique
-69.70	r_s	ton satirique	ton satirique	tonality	satire
-69.72	r_s	sensibilité, tendances réalistes	sensibilité	tonality	sensibilité
-69.72	r_s	sensibilité, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-69.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-70.10	r_s	critique des mœurs et sensibilité mélancolique (dans les lettres)	critique	tonality	critique
-70.10	r_s	critique des mœurs et sensibilité mélancolique (dans les lettres)	mélancolique	tonality	mélancolie
-70.10	r_s	critique des mœurs et sensibilité mélancolique (dans les lettres)	sensibilité	tonality	sensibilité
-70.14	r_s	intentions moralisatrices, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-70.15	r_s	sensibilité	sensibilité	tonality	sensibilité
-70.16	r_s	allégorie morale	allégorie	tonality	allégorie
-70.18	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-70.22	r_s	prétentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-70.23	r_s	ton facétieux	ton facétieux	tonality	ton gai
-70.27	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	tonality	mélancolie
-70.27	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	tonality	sensibilité
-70.3	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-70.30	r_s	couleur locale canadienne	couleur locale	tonality	couleur locale
-70.32	r_s	ton satirique	ton satirique	tonality	satire
-70.34	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-70.36	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-70.43	r_s	sensibilité	sensibilité	tonality	sensibilité
-70.45	r_s	ton léger, fin sensible	fin sensible	tonality	sensibilité
-70.47	r_s	sensibilité, mélancolie, malheurs	mélancolie	tonality	mélancolie
-70.47	r_s	sensibilité, mélancolie, malheurs	sensibilité	tonality	sensibilité
-70.49	r_s	sensibilité	sensibilité	tonality	sensibilité
-70.5	r_s	sensibilité	sensibilité	tonality	sensibilité
-70.53	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-70.53	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-70.56	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-70.56	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-70.6	r_s	ton ironique, épopée burlesque	ton ironique	tonality	satire
-70.6	r_s	ton ironique, épopée burlesque	épopée burlesque	tonality	style poétique
-70.61	r_s	A la manière des Lettres persanes de Montesquieu	A la manière des Lettres persanes	tonality	manière imitée (parodie)
-70.65	r_s	ton satirique	ton satirique	tonality	satire
-70.71	r_s	sensibilité, vertu, nobles sauvages	sensibilité	tonality	sensibilité
-70.74	r_s	sensibilité passionnée, poème en prose	sensibilité	tonality	sensibilité
-70.77	r_s	ton satirique	ton satirique	tonality	satire
-71.11	r_s	couleur locale africaine	couleur locale	tonality	couleur locale
-71.15	r_s	thèmes anticléricaux	thèmes anticléricaux	tonality	critique
-71.17	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-71.21	r_s	sensibilité, thème de l’esclavage	sensibilité	tonality	sensibilité
-71.24	r_s	malheurs, sensibilité	sensibilité	tonality	sensibilité
-71.27	r_s	ton satirique	ton satirique	tonality	satire
-71.32	r_s	sensibilité	sensibilité	tonality	sensibilité
-71.47	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-71.7	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
-71.8	r_s	ton satirique	ton satirique	tonality	satire
-72.1	r_s	sensibilité larmoyante, vertu	sensibilité	tonality	sensibilité
-72.10	r_s	sensibilité effrénée, mélancolie	mélancolie	tonality	mélancolie
-72.10	r_s	sensibilité effrénée, mélancolie	sensibilité	tonality	sensibilité
-72.11	r_s	sensibilité, genre troubadour	sensibilité	tonality	sensibilité
-72.11	r_s	sensibilité, genre troubadour	genre troubadour	tonality	style poétique
-72.15	r_s	ton satirique	ton satirique	tonality	satire
-72.18	r_s	sensibilité	sensibilité	tonality	sensibilité
-72.20	r_s	à la manière de Prévost	à la manière de Prévost	tonality	manière imitée (parodie)
-72.27	r_s	sensibilité passionnée, couleur locale	couleur locale	tonality	couleur locale
-72.27	r_s	sensibilité passionnée, couleur locale	sensibilité	tonality	sensibilité
-72.28	r_s	style épique	style épique	tonality	style épique
-72.32	r_s	sensibilité, analyse des sentiments	sensibilité	tonality	sensibilité
-72.34	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-72.35	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-72.4	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-72.6	r_s	ton satirique, thèmes philosophiques	ton satirique	tonality	satire
-73.11	r_s	passion, sensibilité	sensibilité	tonality	sensibilité
-73.13	r_s	style épique, poème en prose	style épique, poème en prose	tonality	style épique
-73.15	r_s	critique des mœurs et observations morales	critique	tonality	critique
-73.16	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-73.19	r_s	ton satirique	ton satirique	tonality	satire
-73.21	r_s	ton satirique	ton satirique	tonality	satire
-73.22	r_s	style élevé, épopée en prose	style élevé	tonality	style élevé
-73.26	r_s	sensibilité	sensibilité	tonality	sensibilité
-73.27	r_s	sensibilité, style élevé	sensibilité	tonality	sensibilité
-73.27	r_s	sensibilité, style élevé	style élevé	tonality	style élevé
-73.29	r_s	ton satirique	ton satirique	tonality	satire
-73.32	r_s	ton facétieux	ton facétieux	tonality	ton gai
-73.33	r_s	style poétique	style poétique	tonality	style poétique
-73.34	r_s	sensibilité	sensibilité	tonality	sensibilité
-73.35	r_s	sensibilité	sensibilité	tonality	sensibilité
-73.36	r_s	sensibilité	sensibilité	tonality	sensibilité
-73.37	r_s	ton satirique	ton satirique	tonality	satire
-73.4	r_s	ton satirique	ton satirique	tonality	satire
-73.5	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-73.7	r_s	à la manière de Courtilz de Sandras	à la manière de Courtilz de Sandras	tonality	manière imitée (parodie)
-73.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-74.10	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-74.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-74.17	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-74.19	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-74.22	r_s	couleur locale, ton épique	couleur locale	tonality	couleur locale
-74.25	r_s	ton satirique	ton satirique	tonality	satire
-74.27	r_s	à la manière de Prévost	à la manière de Prévost	tonality	manière imitée (parodie)
-74.29	r_s	sensibilité	sensibilité	tonality	sensibilité
-74.30	r_s	sensibilité	sensibilité	tonality	sensibilité
-74.31	r_s	sensibilité, sombres malheurs	sensibilité	tonality	sensibilité
-74.32	r_s	sensibilité, moyen âge chevaleresque	sensibilité	tonality	sensibilité
-74.4	r_s	sensibilité, bienfaisance	sensibilité	tonality	sensibilité
-74.5	r_s	ton satirique	ton satirique	tonality	satire
-74.6	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-74.7	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-74.7	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-74.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-75.1	r_s	sensibilité. A la manière de Werther	A la manière de Werther	tonality	manière imitée (parodie)
-75.1	r_s	sensibilité. A la manière de Werther	sensibilité	tonality	sensibilité
-75.10	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	sensibilité	tonality	sensibilité
-75.10	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	tendances réalistes	tonality	tendances réalistes
-75.13	r_s	sensibilité, retour à la nature	retour à la nature	tonality	attachement à la nature
-75.13	r_s	sensibilité, retour à la nature	sensibilité	tonality	sensibilité
-75.14	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-75.15	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-75.16	r_s	sensibilité effrénée, malheurs	sensibilité	tonality	sensibilité
-75.18	r_s	ton satirique	ton satirique	tonality	satire
-75.19	r_s	sensibilité	sensibilité	tonality	sensibilité
-75.1bis	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-75.20	r_s	sensibilité	sensibilité	tonality	sensibilité
-75.25	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-75.27	r_s	ton satirique	ton satirique	tonality	satire
-75.3	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-75.3	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-75.31	r_s	sensibilité, discussions	sensibilité	tonality	sensibilité
-75.33	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-75.35	r_s	malheurs, sensibilité	sensibilité	tonality	sensibilité
-75.36	r_s	sensibilité effrénée, malheurs	sensibilité	tonality	sensibilité
-75.38	r_s	ton satirique	ton satirique	tonality	satire
-75.40	r_s	sensibilité	sensibilité	tonality	sensibilité
-75.41	r_s	sensibilité	sensibilité	tonality	sensibilité
-75.6	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-75.6	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-75.9	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-76.10bis	r_s	sensibilité	sensibilité	tonality	sensibilité
-76.12	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-76.13	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-76.17	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
-76.24	r_s	ton satirique	ton satirique	tonality	satire
-76.26	r_s	mélancolie, désespoir	mélancolie	tonality	mélancolie
-76.28bis	r_s	ton plaisant	ton plaisant	tonality	ton gai
-76.30	r_s	sensibilité effrénée, malheurs, vertu	sensibilité	tonality	sensibilité
-76.33	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-76.39	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-76.43	r_s	influence d’Emile	influence d’Emile	tonality	manière imitée (parodie)
-76.44	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	sensibilité	tonality	sensibilité
-76.44	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	tendances réalistes	tonality	tendances réalistes
-76.45	r_s	ton satirique	ton satirique	tonality	satire
-76.47	r_s	narration entrecoupée de commentaires facétieux	facétie	tonality	ton gai
-76.49	r_s	sensibilité	sensibilité	tonality	sensibilité
-76.50	r_s	sensibilité	sensibilité	tonality	sensibilité
-76.51	r_s	sensibilité	sensibilité	tonality	sensibilité
-76.6	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-76.8	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-77.1	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-77.10	r_s	sensibilité, nature, malheurs	sensibilité	tonality	sensibilité
-77.11	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-77.13	r_s	ton satirique	ton satirique	tonality	satire
-77.16	r_s	sensibilité effrénée, vertu, bienfaisance	sensibilité	tonality	sensibilité
-77.18	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-77.38	r_s	sensibilité, prétentions morales (portrait du citoyen vertueux)	sensibilité	tonality	sensibilité
-77.40	r_s	ton satirique	ton satirique	tonality	satire
-77.43	r_s	ton satirique	ton satirique	tonality	satire
-77.52	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-77.53	r_s	sensibilité, vertu, prétentions moralisatrices	sensibilité	tonality	sensibilité
-77.54	r_s	sensibilité effrénée, mélancolie	mélancolie	tonality	mélancolie
-77.54	r_s	sensibilité effrénée, mélancolie	sensibilité	tonality	sensibilité
-77.59	r_s	sensibilité	sensibilité	tonality	sensibilité
-77.8	r_s	sensibilité effrénée, effets d’horreur	sensibilité	tonality	sensibilité
-77.9	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
-78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	mélancolie	tonality	mélancolie
-78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	sensibilité	tonality	sensibilité
-78.11	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	tendances réalistes	tonality	tendances réalistes
-78.12	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-78.13	r_s	sensibilité	sensibilité	tonality	sensibilité
-78.15	r_s	ton satirique	ton satirique	tonality	satire
-78.16	r_s	vertu, sensibilité	sensibilité	tonality	sensibilité
-78.18	r_s	ton satirique	ton satirique	tonality	satire
-78.20	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-78.22	r_s	sensibilité	sensibilité	tonality	sensibilité
-78.25	r_s	ton satirique	ton satirique	tonality	satire
-78.26	r_s	sensibilité	sensibilité	tonality	sensibilité
-78.27	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-78.29	r_s	critique des mœurs	critique	tonality	critique
-78.30	r_s	sensibilité, but didactique, esprit de système	sensibilité	tonality	sensibilité
-78.34	r_s	sensibilité	sensibilité	tonality	sensibilité
-78.4	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-78.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-79.1	r_s	ton satirique	ton satirique	tonality	satire
-79.10	r_s	ton satirique, tendances réalistes	ton satirique	tonality	satire
-79.10	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-79.11	r_s	ton satirique	ton satirique	tonality	satire
-79.15	r_s	ton libre	ton libre	tonality	ton gai
-79.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-79.23	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-79.26	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-79.31	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-79.31	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	tendances réalistes	tonality	tendances réalistes
-79.32	r_s	ton satirique	ton satirique	tonality	satire
-79.34	r_s	sensibilité	sensibilité	tonality	sensibilité
-79.35	r_s	sensibilité	sensibilité	tonality	sensibilité
-79.36	r_s	ton satirique	ton satirique	tonality	satire
-79.4	r_s	sensibilité	sensibilité	tonality	sensibilité
-79.5	r_s	ton libre	ton libre	tonality	ton gai
-79.8	r_s	sensibilité	sensibilité	tonality	sensibilité
-79.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-80.10	r_s	sensibilité	sensibilité	tonality	sensibilité
-80.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-80.12	r_s	description et critique de l’organisation politique de la République	critique	tonality	critique
-80.16	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	retour à la nature	tonality	attachement à la nature
-80.16	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	thèmes anticléricaux	tonality	critique
-80.17	r_s	critique des mœurs anglaises	critique	tonality	critique
-80.18	r_s	ton satirique	ton satirique	tonality	satire
-80.2	r_s	pseudo-épopée au ton léger	pseudo-épopée	tonality	style élevé
-80.2	r_s	pseudo-épopée au ton léger	pseudo-épopée au ton léger	tonality	ton gai
-80.20	r_s	sensibilité	sensibilité	tonality	sensibilité
-80.24	r_s	sensibilité, analyse des passions	sensibilité	tonality	sensibilité
-80.27	r_s	réalisme du cadre, autobiographie romancée, sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-80.27	r_s	réalisme du cadre, autobiographie romancée, sensibilité, prétentions moralisatrices	réalisme du cadre	tonality	tendances réalistes
-80.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-80.32	r_s	genre troubadour	genre troubadour	tonality	style poétique
-80.33	r_s	genre troubadour	genre troubadour	tonality	style poétique
-80.34	r_s	prose poétique	prose poétique	tonality	style poétique
-80.5	r_s	style poétique, voluptueux	style poétique	tonality	style poétique
-80.6	r_s	sensibilité	sensibilité	tonality	sensibilité
-80.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-81.1	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-81.10	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-81.11	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-81.11	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-81.13	r_s	sensibilité passionnée, nature	sensibilité	tonality	sensibilité
-81.15	r_s	sensibilité	sensibilité	tonality	sensibilité
-81.18	r_s	ton satirique	ton satirique	tonality	satire
-81.29	r_s	thèmes philosophiques, théories pseudoscientifiques, critique des mœurs	critique	tonality	critique
-81.3	r_s	sensibilité	sensibilité	tonality	sensibilité
-81.32	r_s	sensibilité	sensibilité	tonality	sensibilité
-81.6	r_s	ton satirique	ton satirique	tonality	satire
-81.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-82.13	r_s	sensibilité, observations politiques et morales	sensibilité	tonality	sensibilité
-82.15	r_s	sensibilité	sensibilité	tonality	sensibilité
-82.2	r_s	ton satirique, puis sensibilité	ton satirique, puis sensibilité	tonality	sensibilité
-82.2	r_s	ton satirique, puis sensibilité	ton satirique	tonality	satire
-82.24	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-82.26	r_s	éléments merveilleux, style élevé	éléments merveilleux	tonality	conte de fée
-82.26	r_s	éléments merveilleux, style élevé	style élevé	tonality	style élevé
-82.28	r_s	sensibilité	sensibilité	tonality	sensibilité
-82.3	r_s	satire des Jésuites	satire	tonality	satire
-82.31	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-82.36	r_s	sensibilité	sensibilité	tonality	sensibilité
-82.38	r_s	sensibilité	sensibilité	tonality	sensibilité
-82.40	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.1	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-83.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.12	r_s	ton gai	ton gai	tonality	ton gai
-83.16	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-83.2	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-83.20	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-83.21	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-83.22	r_s	sensibilité, malheurs; vie à la campagne	vie à la campagne	tonality	attachement à la nature
-83.22	r_s	sensibilité, malheurs; vie à la campagne	sensibilité	tonality	sensibilité
-83.23	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-83.33	r_s	nature, vertu, sensibilité, mélancolie	mélancolie	tonality	mélancolie
-83.33	r_s	nature, vertu, sensibilité, mélancolie	sensibilité	tonality	sensibilité
-83.35	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.36	r_s	genre troubadour	genre troubadour	tonality	style poétique
-83.39	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.4	r_s	ton facétieux	ton facétieux	tonality	ton gai
-83.41	r_s	mélancolie, désespoir, poème en prose	mélancolie	tonality	mélancolie
-83.43	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-83.46	r_s	sensibilité	sensibilité	tonality	sensibilité
-83.51	r_s	éléments historiques, sensibilité	sensibilité	tonality	sensibilité
-83.52	r_s	éléments historiques, sensibilité	sensibilité	tonality	sensibilité
-83.53	r_s	éléments historiques, sensibilité	sensibilité	tonality	sensibilité
-83.54	r_s	éléments historiques, sensibilité	sensibilité	tonality	sensibilité
-83.56	r_s	ton satirique	ton satirique	tonality	satire
-83.59	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-83.7	r_s	sensibilité	sensibilité	tonality	sensibilité
-84.13	r_s	sensibilité	sensibilité	tonality	sensibilité
-84.17	r_s	sensibilité	sensibilité	tonality	sensibilité
-84.21	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-84.22	r_s	ton plaisant	ton plaisant	tonality	ton gai
-84.23	r_s	ton satirique	ton satirique	tonality	satire
-84.28	r_s	tendances réalistes, ton facétieux	tendances réalistes	tonality	tendances réalistes
-84.28	r_s	tendances réalistes, ton facétieux	ton facétieux	tonality	ton gai
-84.29	r_s	sensibilité, style épique	sensibilité	tonality	sensibilité
-84.29	r_s	sensibilité, style épique	style épique	tonality	style épique
-84.3	r_s	critique polémique	critique	tonality	critique
-84.34	r_s	sensibilité, style poétique	sensibilité	tonality	sensibilité
-84.34	r_s	sensibilité, style poétique	style poétique	tonality	style poétique
-84.36	r_s	thèmes philosophiques, ton satirique	ton satirique	tonality	satire
-84.38	r_s	ton ironique	ton ironique	tonality	satire
-84.39	r_s	ton satirique	ton satirique	tonality	satire
-84.41	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-84.5	r_s	ton critique et humoristique	critique	tonality	critique
-84.52	r_s	style élevé, épopée en prose	style élevé	tonality	style élevé
-84.54	r_s	thèmes philosophiques, ton satirique	ton satirique	tonality	satire
-84.62	r_s	genre troubadour	genre troubadour	tonality	style poétique
-84.9	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-85.1	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-85.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-85.14	r_s	vertu, sensibilité, nature	sensibilité	tonality	sensibilité
-85.15	r_s	ton satirique, éléments réalistes	ton satirique	tonality	satire
-85.15	r_s	ton satirique, éléments réalistes	éléments réalistes	tonality	tendances réalistes
-85.16	r_s	ton satirique	ton satirique	tonality	satire
-85.19	r_s	ton satirique	ton satirique	tonality	satire
-85.3	r_s	récit coupé en ’mois’	récit coupé en ’mois’	tonality	contes
-85.30	r_s	style épique	style épique	tonality	style épique
-85.33	r_s	ton satirique	ton satirique	tonality	satire
-85.36	r_s	vieux langage, goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-85.38	r_s	ton satirique	ton satirique	tonality	satire
-85.39	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-85.40	r_s	imitations d’Ossian, thèmes philosophiques, intentions didactiques, tendances réalistes	imitations d’Ossia	tonality	manière imitée (parodie)
-85.40	r_s	imitations d’Ossian, thèmes philosophiques, intentions didactiques, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-85.42	r_s	conte philosophique	conte philosophique	tonality	contes
-85.43	r_s	ton satirique	ton satirique	tonality	satire
-85.7	r_s	ton sentimental et moralisateur, observations des mœurs mauresques	ton sentimental	tonality	ton sentimental
-86.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.11	r_s	sensibilité larmoyante	sensibilité	tonality	sensibilité
-86.2	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.27	r_s	sensibilité, vie à la campagne	vie à la campagne	tonality	attachement à la nature
-86.27	r_s	sensibilité, vie à la campagne	sensibilité	tonality	sensibilité
-86.29	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.33	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.34	r_s	style épique	style épique	tonality	style épique
-86.42	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-86.45	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.46	r_s	ton satirique, prétentions philosophiques	ton satirique	tonality	satire
-86.47	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.48	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.52	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.58	r_s	fortes tendances réalistes, autobiographie romancée	tendances réalistes	tonality	tendances réalistes
-86.6	r_s	sensibilité	sensibilité	tonality	sensibilité
-86.60	r_s	ton satirique	ton satirique	tonality	satire
-86.63	r_s	style entrecoupé	style entrecoupé	tonality	style élevé
-86.8	r_s	sensibilité, prétentions moralisatrices, attaques contre les philosophes	attaques contre les philosophes	tonality	critique
-86.8	r_s	sensibilité, prétentions moralisatrices, attaques contre les philosophes	sensibilité	tonality	sensibilité
-86.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-87.1	r_s	thème de l’éducation, critique des mœurs	critique	tonality	critique
-87.15	r_s	parodie de Tristram Shandy	parodie	tonality	manière imitée (parodie)
-87.16	r_s	ton satirique	ton satirique	tonality	satire
-87.20	r_s	thèmes anticléricaux, ton satirique	thèmes anticléricaux	tonality	critique
-87.20	r_s	thèmes anticléricaux, ton satirique	ton satirique	tonality	satire
-87.29	r_s	style élevé, nature, sensibilité	sensibilité	tonality	sensibilité
-87.29	r_s	style élevé, nature, sensibilité	style élevé	tonality	style élevé
-87.30	r_s	sensibilité	sensibilité	tonality	sensibilité
-87.31	r_s	ton satirique	ton satirique	tonality	satire
-87.34	r_s	ton plaisant, avec des notes facétieuses	ton plaisant	tonality	ton gai
-87.35	r_s	sensibilité, intentions didactiques	sensibilité	tonality	sensibilité
-87.37	r_s	sensibilité	sensibilité	tonality	sensibilité
-87.4	r_s	observations politiques, thèmes philosophiques, pseudo-épopée	pseudo-épopée	tonality	style élevé
-87.47	r_s	sensibilité	sensibilité	tonality	sensibilité
-87.48	r_s	sensibilité, ironie	sensibilité	tonality	sensibilité
-87.60	r_s	ton satirique	ton satirique	tonality	satire
-87.61	r_s	intentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-87.68	r_s	ton satirique	ton satirique	tonality	satire
-87.8	r_s	sensibilité débordante	sensibilité	tonality	sensibilité
-88.10	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	A la manière du Voyage sentimental de Sterne	tonality	manière imitée (parodie)
-88.10	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	ton facétieux	tonality	ton gai
-88.102	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.105	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-88.106	r_s	cadre pastoral, forte couleur locale	forte couleur locale	tonality	couleur locale
-88.14	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-88.16	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.17	r_s	ton satirique	ton satirique	tonality	satire
-88.18	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.20	r_s	apologie de la Nature, sensibilité	apologie	tonality	apologie
-88.20	r_s	apologie de la Nature, sensibilité	sensibilité	tonality	sensibilité
-88.22	r_s	sensibilité, mystères	sensibilité	tonality	sensibilité
-88.23	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-88.23	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-88.25	r_s	ton satirique	ton satirique	tonality	satire
-88.29	r_s	ton satirique	ton satirique	tonality	satire
-88.31	r_s	ton satirique, but moral	ton satirique	tonality	satire
-88.32	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
-88.34	r_s	vertu, sensibilité	sensibilité	tonality	sensibilité
-88.35	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-88.37	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.46	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-88.46	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-88.48	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-88.55	r_s	sensibilité passionnée, réflexions mélancoliques	mélancolique	tonality	mélancolie
-88.55	r_s	sensibilité passionnée, réflexions mélancoliques	sensibilité	tonality	sensibilité
-88.56	r_s	prétentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-88.57bis	r_s	ton sensible et moralisateur	ton sensible	tonality	sensibilité
-88.59	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-88.64	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.66	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.68	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-88.69	r_s	ton satirique	ton satirique	tonality	satire
-88.72	r_s	éléments réalistes, critique sociale, ton satirique	critique	tonality	critique
-88.72	r_s	éléments réalistes, critique sociale, ton satirique	ton satirique	tonality	satire
-88.72	r_s	éléments réalistes, critique sociale, ton satirique	éléments réalistes	tonality	tendances réalistes
-88.73	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.86	r_s	ton satirique	ton satirique	tonality	satire
-88.87	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-88.87	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-88.9	r_s	sensibilité	sensibilité	tonality	sensibilité
-88.91	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	tonality	vieux langage
-88.96	r_s	ton satirique	ton satirique	tonality	satire
-88.97	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-88.98	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.103	r_s	ton ironique	ton ironique	tonality	satire
-89.108	r_s	nature, sensibilité, ton grandiose	sensibilité	tonality	sensibilité
-89.108	r_s	nature, sensibilité, ton grandiose	ton grandiose	tonality	style élevé
-89.109	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-89.12	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-89.12	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-89.18	r_s	conte allégorique, critique de la noblesse	allégorique	tonality	allégorie
-89.18	r_s	conte allégorique, critique de la noblesse	critique	tonality	critique
-89.19	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-89.19	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-89.2	r_s	ton satirique	ton satirique	tonality	satire
-89.21	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-89.28	r_s	ton satirique	ton satirique	tonality	satire
-89.3	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.32	r_s	prose poétique	prose poétique	tonality	style poétique
-89.33	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-89.35	r_s	sensibilité extrême	sensibilité	tonality	sensibilité
-89.4	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.41	r_s	ton satirique	ton satirique	tonality	satire
-89.42	r_s	sensibilité larmoyante, bienfaisance, nature	sensibilité	tonality	sensibilité
-89.43	r_s	A la manière des Lettres persanes	A la manière des Lettres persanes	tonality	manière imitée (parodie)
-89.53	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-89.55	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-89.56	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.58	r_s	ton satirique	ton satirique	tonality	satire
-89.62	r_s	satire de quelques membres du clergé qui habitent Le Mans et les environs	satire	tonality	satire
-89.63	r_s	ton satirique	ton satirique	tonality	satire
-89.65	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.66	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.68	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-89.69	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.72	r_s	ton sensible, avec éléments satiriques	éléments satiriques	tonality	satire
-89.72	r_s	ton sensible, avec éléments satiriques	ton sensible	tonality	sensibilité
-89.82	r_s	prétentions moralisatrices, sensibilité	sensibilité	tonality	sensibilité
-89.83	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-89.85	r_s	sensibilité	sensibilité	tonality	sensibilité
-89.9	r_s	ton libre	ton libre	tonality	ton gai
-89.90	r_s	allégories, ton sentimental	allégorie	tonality	allégorie
-89.90	r_s	allégories, ton sentimental	ton sentimental	tonality	ton sentimental
-89.95	r_s	fortes tendances réalistes	tendances réalistes	tonality	tendances réalistes
-89.97	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-89.98	r_s	allégorie	allégorie	tonality	allégorie
-90.1	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-90.13	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-90.17	r_s	ton satirique	ton satirique	tonality	satire
-90.25	r_s	couleur locale (mots tahitiens dans le texte)	couleur locale	tonality	couleur locale
-90.28	r_s	sensibilité passionnée, style élevé	sensibilité	tonality	sensibilité
-90.28	r_s	sensibilité passionnée, style élevé	style élevé	tonality	style élevé
-90.39	r_s	style poétique	style poétique	tonality	style poétique
-90.40	r_s	ton satirique, style ’ancien ’	ton satirique	tonality	satire
-90.40	r_s	ton satirique, style ’ancien ’	style ’ancien ’	tonality	vieux langage
-90.41	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	éloge de la vie simple	tonality	attachement à la nature
-90.41	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	mélancolie	tonality	mélancolie
-90.44	r_s	dans le genre du Roman comique de Scarron, intentions satiriques	dans le genre du Roman comique de Scarron	tonality	manière imitée (parodie)
-90.50	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
-90.52	r_s	sensibilité	sensibilité	tonality	sensibilité
-90.65	r_s	sensibilité	sensibilité	tonality	sensibilité
-90.66	r_s	sensibilité	sensibilité	tonality	sensibilité
-90.7	r_s	ton satirique	ton satirique	tonality	satire
-91.1	r_s	ton sensible	ton sensible	tonality	sensibilité
-91.18	r_s	sensibilité, couleur locale	couleur locale	tonality	couleur locale
-91.18	r_s	sensibilité, couleur locale	sensibilité	tonality	sensibilité
-91.19	r_s	sensibilité	sensibilité	tonality	sensibilité
-91.23	r_s	ton satirique	ton satirique	tonality	satire
-91.24	r_s	ton satirique	ton satirique	tonality	satire
-91.25	r_s	sensibilité effrénée, style entrecoupé	sensibilité	tonality	sensibilité
-91.25	r_s	sensibilité effrénée, style entrecoupé	style entrecoupé	tonality	style élevé
-91.32	r_s	sensibilité	sensibilité	tonality	sensibilité
-91.40	r_s	sensibilité, nature	sensibilité	tonality	sensibilité
-91.8	r_s	ton satirique	ton satirique	tonality	satire
-92.15	r_s	sensibilité, vertu, philosophie	sensibilité	tonality	sensibilité
-92.17	r_s	ton satirique	ton satirique	tonality	satire
-92.18	r_s	sensibilité	sensibilité	tonality	sensibilité
-92.2	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-92.21	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-92.3	r_s	sensibilité	sensibilité	tonality	sensibilité
-92.30	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-92.30	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-92.33	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-92.34	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-92.39	r_s	style héroï-comique	style héroï-comique	tonality	ton gai
-92.7	r_s	satire des mœurs	satire	tonality	satire
-92.8	r_s	récit d’après un tableau de Raphaël	récit d’après un tableau de Raphaël	tonality	contes
-93.11	r_s	sensibilité	sensibilité	tonality	sensibilité
-93.12	r_s	ton moralisateur, sensibilité	sensibilité	tonality	sensibilité
-93.13	r_s	sensibilité	sensibilité	tonality	sensibilité
-93.15	r_s	ton héroï-comique	ton héroï-comique	tonality	ton gai
-93.4	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-93.5	r_s	satire politique, religieuse, médicale	satire	tonality	satire
-93.6	r_s	attaques contre les monarques	attaques contre les monarques	tonality	critique
-94.1	r_s	sensibilité	sensibilité	tonality	sensibilité
-94.5	r_s	sensibilité, vertu, nature. Imitation de Paul et Virginie	sensibilité	tonality	sensibilité
-94.7	r_s	thèmes anticléricaux, vertus républicaines	thèmes anticléricaux	tonality	critique
-95.12	r_s	vertu, sensibilité	sensibilité	tonality	sensibilité
-95.13	r_s	prose poétique	prose poétique	tonality	style poétique
-95.14	r_s	prose poétique, peintures voluptueuses, sensibilité passionnée	sensibilité	tonality	sensibilité
-95.14	r_s	prose poétique, peintures voluptueuses, sensibilité passionnée	prose poétique	tonality	style poétique
-95.26	r_s	sensibilité	sensibilité	tonality	sensibilité
-95.27	r_s	sensibilité passionnée	sensibilité	tonality	sensibilité
-95.28	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-95.28	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-95.3	r_s	sensibilité, vertu	sensibilité	tonality	sensibilité
-95.39	r_s	sensibilité	sensibilité	tonality	sensibilité
-95.4	r_s	sensibilité	sensibilité	tonality	sensibilité
-96.12	r_s	nature, sensibilité, vertu	sensibilité	tonality	sensibilité
-96.16	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-96.17	r_s	sensibilité, mais ironie	sensibilité	tonality	sensibilité
-96.18bis	r_s	ton sensible	ton sensible	tonality	sensibilité
-96.26	r_s	vertu, critique des préjugés	critique	tonality	critique
-96.3	r_s	tendances réalistes, thèmes philosophiques	tendances réalistes	tonality	tendances réalistes
-96.33	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-96.33	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-96.34	r_s	sensibilité	sensibilité	tonality	sensibilité
-96.39	r_s	sensibilité	sensibilité	tonality	sensibilité
-96.40	r_s	genre troubadour	genre troubadour	tonality	style poétique
-96.42	r_s	ton sensible	ton sensible	tonality	sensibilité
-96.5	r_s	détails pornographiques	détails pornographiques	tonality	précisions pornographiques
-96.50	r_s	ton facétieux	ton facétieux	tonality	ton gai
-96.52	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
-96.7	r_s	sensibilité, mais des éléments comiques aussi	sensibilité	tonality	sensibilité
-97.1	r_s	sensibilité larmoyante, prose poétique entremêlée de vers	sensibilité	tonality	sensibilité
-97.1	r_s	sensibilité larmoyante, prose poétique entremêlée de vers	prose poétique	tonality	style poétique
-97.10	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.14	r_s	sensibilité, nature	sensibilité	tonality	sensibilité
-97.17	r_s	conte philosophique	conte philosophique	tonality	contes
-97.19	r_s	peinture des mœurs, ton satirique	ton satirique	tonality	satire
-97.2	r_s	sensibilité, mélancolie, prétentions moralisatrices	mélancolie	tonality	mélancolie
-97.2	r_s	sensibilité, mélancolie, prétentions moralisatrices	sensibilité	tonality	sensibilité
-97.25	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-97.27	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-97.27	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-97.29	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.33	r_s	prose poétique	prose poétique	tonality	style poétique
-97.36	r_s	sensibilité, but moralisateur	sensibilité	tonality	sensibilité
-97.4	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.42	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.58	r_s	mélancolie, roman noir	mélancolie	tonality	mélancolie
-97.59	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-97.59	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-97.61	r_s	ton satirique	ton satirique	tonality	satire
-97.63	r_s	mélancolie et sensibilité	mélancolie	tonality	mélancolie
-97.63	r_s	mélancolie et sensibilité	sensibilité	tonality	sensibilité
-97.65	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.66	r_s	sensibilité	sensibilité	tonality	sensibilité
-97.68	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-97.68	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-97.71	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-97.72	r_s	style poétique	style poétique	tonality	style poétique
-97.77	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.1	r_s	peinture des mœurs, observations morales, sensibilité	sensibilité	tonality	sensibilité
-98.10	r_s	sensibilité, éléments du roman noir	sensibilité	tonality	sensibilité
-98.11	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-98.12	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.18	r_s	ton sensible et moralisateur, peinture des mœurs	ton sensible	tonality	sensibilité
-98.19	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
-98.20	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
-98.22	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-98.22	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-98.23	r_s	tendances réalistes	tendances réalistes	tonality	tendances réalistes
-98.29	r_s	sensibilité, mélancolie, bienfaisance	mélancolie	tonality	mélancolie
-98.29	r_s	sensibilité, mélancolie, bienfaisance	sensibilité	tonality	sensibilité
-98.3	r_s	thèmes philosophiques, ton satirique (imitation de Candide)	ton satirique (imitation de Candide)	tonality	satire
-98.30	r_s	nature, vertu, sensibilité	sensibilité	tonality	sensibilité
-98.31	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.33	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.34	r_s	construction désordonnée, ton satirique et facétieux	ton satirique et facétieux	tonality	ton gai
-98.34	r_s	construction désordonnée, ton satirique et facétieux	ton satirique	tonality	satire
-98.39	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.42	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.44	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.46	r_s	mélancolie, ton sombre	mélancolie	tonality	mélancolie
-98.48	r_s	sensibilité, critique des mœurs	critique	tonality	critique
-98.48	r_s	sensibilité, critique des mœurs	sensibilité	tonality	sensibilité
-98.53	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.55	r_s	vertu, simplicité, sensibilité	sensibilité	tonality	sensibilité
-98.56	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.58	r_s	ton satirique	ton satirique	tonality	satire
-98.60	r_s	tendances réalistes et satiriques	tendances réalistes	tonality	tendances réalistes
-98.61	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
-98.66	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-98.66	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-98.67	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.71	r_s	détails des mœurs, ton moralisateur et sensible	ton moralisateur et sensible	tonality	sensibilité
-98.73bis	r_s	prose poétique	prose poétique	tonality	style poétique
-98.76	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.81	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-98.82	r_s	ton satirique	ton satirique	tonality	satire
-98.83bis	r_s	ton satirique	ton satirique	tonality	satire
-98.89	r_s	sensibilité	sensibilité	tonality	sensibilité
-98.90	r_s	style épique	style épique	tonality	style épique
-98.91	r_s	ton satirique	ton satirique	tonality	satire
-98.94	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-98.94	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-98.96	r_s	bienfaisance, sensibilité	sensibilité	tonality	sensibilité
-98.97	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.10	r_s	ton gai, éléments réalistes	éléments réalistes	tonality	tendances réalistes
-99.10	r_s	ton gai, éléments réalistes	ton gai	tonality	ton gai
-99.100	r_s	ton satirique	ton satirique	tonality	satire
-99.103	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.109	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-99.110	r_s	ton satirique	ton satirique	tonality	satire
-99.112	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.114	r_s	ton satirique	ton satirique	tonality	satire
-99.12	r_s	ton satirique	ton satirique	tonality	satire
-99.121	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-99.121	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-99.125	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-99.125	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-99.128	r_s	ton satirique, thèmes philosophiques	ton satirique	tonality	satire
-99.129	r_s	sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-99.13	r_s	précisions pornographiques	précisions pornographiques	tonality	précisions pornographiques
-99.130	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-99.135	r_s	sensibilité mélancolique	mélancolique	tonality	mélancolie
-99.135	r_s	sensibilité mélancolique	sensibilité	tonality	sensibilité
-99.136	r_s	sensibilité, ton moralisateur	sensibilité	tonality	sensibilité
-99.137	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.138	r_s	sensibilité exaltée	sensibilité	tonality	sensibilité
-99.141	r_s	ton satirique, tendances réalistes	ton satirique	tonality	satire
-99.141	r_s	ton satirique, tendances réalistes	tendances réalistes	tonality	tendances réalistes
-99.146	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-99.147	r_s	sensibilité effrénée, éléments du roman noir	sensibilité	tonality	sensibilité
-99.151	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.153	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.157	r_s	critique des mœurs	critique	tonality	critique
-99.158	r_s	critique sociale, ton moralisateur et sensible	critique	tonality	critique
-99.158	r_s	critique sociale, ton moralisateur et sensible	ton moralisateur et sensible	tonality	sensibilité
-99.160	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	éléments merveilleux	tonality	conte de fée
-99.160	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	ton facétieux	tonality	ton gai
-99.161	r_s	parodie des romans à la mode	parodie des romans à la mode	tonality	manière imitée (parodie)
-99.163	r_s	retour à la nature	retour à la nature	tonality	attachement à la nature
-99.164	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-99.167	r_s	sensibilité, prétentions moralisatrices	sensibilité	tonality	sensibilité
-99.168	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.170	r_s	mélancolie, désespoir	mélancolie	tonality	mélancolie
-99.172	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.174	r_s	mélancolie, sensibilité, épisodes sombres	mélancolie	tonality	mélancolie
-99.174	r_s	mélancolie, sensibilité, épisodes sombres	sensibilité	tonality	sensibilité
-99.18	r_s	sensibilité effrénée	sensibilité	tonality	sensibilité
-99.19	r_s	peinture des mœurs, sensibilité, intentions moralisatrices	sensibilité	tonality	sensibilité
-99.24	r_s	sensibilité effrenée	sensibilité	tonality	sensibilité
-99.28	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-99.3	r_s	ton sentimental et moralisateur	ton sentimental	tonality	ton sentimental
-99.33	r_s	ton satirique	ton satirique	tonality	satire
-99.42	r_s	ton sensible	ton sensible	tonality	sensibilité
-99.44	r_s	ton satirique	ton satirique	tonality	satire
-99.45	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-99.45	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-99.46	r_s	ton satirique	ton satirique	tonality	satire
-99.48	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.49	r_s	sensibilité, nature	sensibilité	tonality	sensibilité
-99.50	r_s	ton satirique	ton satirique	tonality	satire
-99.53	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.56	r_s	sensibilité, couleur locale, roman noir	couleur locale	tonality	couleur locale
-99.56	r_s	sensibilité, couleur locale, roman noir	sensibilité	tonality	sensibilité
-99.59	r_s	sensibilité, intentions, moralisatrices	sensibilité	tonality	sensibilité
-99.6	r_s	ton voluptueux mais moralisateur	voluptueux	tonality	style poétique
-99.65	r_s	ton satirique, sensibilité	ton satirique	tonality	satire
-99.65	r_s	ton satirique, sensibilité	sensibilité	tonality	sensibilité
-99.66	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.69	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.70	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.75	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.77	r_s	sensibilité, nature, vertu	sensibilité	tonality	sensibilité
-99.79	r_s	épopée en prose poétique	prose poétique	tonality	style poétique
-99.82	r_s	genre troubadour	genre troubadour	tonality	style poétique
-99.83	r_s	sensibilité	sensibilité	tonality	sensibilité
-99.87	r_s	ton sentimental	ton sentimental	tonality	ton sentimental
-99.88	r_s	sensibilité, malheurs	sensibilité	tonality	sensibilité
-99.89	r_s	style poétique	style poétique	tonality	style poétique
-99.9	r_s	ton sensible et moralisateur	ton sensible	tonality	sensibilité
-99.92	r_s	ton satirique	ton satirique	tonality	satire
-99.94	r_s	sensibilité, mélancolie	mélancolie	tonality	mélancolie
-99.94	r_s	sensibilité, mélancolie	sensibilité	tonality	sensibilité
-00.37	r_s	précisions pornographiques. (Ce serait une satire contre Joséphine de Beauharnais, madame Tallien et madame Visconti.)	précisions pornographiques	tonality	précisions pornographiques
-00.37	r_s	précisions pornographiques. (Ce serait une satire contre Joséphine de Beauharnais, madame Tallien et madame Visconti.)	satire	tonality	satire
-52.43	r_s	thèmes philosophiques, ton satirique.	ton satirique	tonality	satire
-53.26	r_s	style poétique.	style poétique	tonality	style poétique
-58.17	r_s	analyse des sentiments, mélancolie.	mélancolie	tonality	mélancolie
-58.5	r_s	ton satirique	ton satirique	tonality	satire
-59.22	r_s	sensibilité.	sensibilité	tonality	sensibilité
-60.21	r_s	sensibilité, mélancolie.	mélancolie	tonality	mélancolie
-60.21	r_s	sensibilité, mélancolie.	sensibilité	tonality	sensibilité
-61.17	r_s	style poétique, pseudo-épopée à la manière de Fénelon.	pseudo-épopée	tonality	style élevé
-61.17	r_s	style poétique, pseudo-épopée à la manière de Fénelon.	style poétique	tonality	style poétique
-62.11	r_s	critique des mœurs, ton satirique.	critique	tonality	critique
-62.11	r_s	critique des mœurs, ton satirique.	ton satirique	tonality	satire
-63.19	r_s	poème en prose, genre troubadour.	genre troubadour	tonality	style poétique
-64.39	r_s	sensibilité.	sensibilité	tonality	sensibilité
-66.11	r_s	sensibilité, analyse des sentiments.	sensibilité	tonality	sensibilité
-67.36	r_s	sensibilité, mélancolie, sentiments chrétiens et anti-philosophiques.	mélancolie	tonality	mélancolie
-67.36	r_s	sensibilité, mélancolie, sentiments chrétiens et anti-philosophiques.	sensibilité	tonality	sensibilité
-67.39	r_s	style noble, vertu, thèmes philosophiques.	style noble	tonality	style élevé
-69.57	r_s	sensibilité, vertu, prose poétique.	sensibilité	tonality	sensibilité
-69.57	r_s	sensibilité, vertu, prose poétique.	prose poétique	tonality	style poétique
-71.25	r_s	sensibilité effrénée.	sensibilité	tonality	sensibilité
-71.36	r_s	ton satirique.	ton satirique	tonality	satire
-72.19	r_s	sensibilité effrénée, analyse d’un problème moral.	sensibilité	tonality	sensibilité
-74.15	r_s	sensibilité, vertu, prétentions moralisatrices.	sensibilité	tonality	sensibilité
-74.20	r_s	malheurs, sensibilité passionnée.	sensibilité	tonality	sensibilité
-76.36	r_s	sensibilité, vertu.	sensibilité	tonality	sensibilité
-77.50	r_s	roman philosophique (contre le fanatisme), couleur locale, épopée en prose.	couleur locale	tonality	couleur locale
-79.22	r_s	sensibilité, vertu.	sensibilité	tonality	sensibilité
-82.20	r_s	but didactique (roman d’éducation), sensibilité, vertu.	sensibilité	tonality	sensibilité
-82.27	r_s	thèmes philosophiques, quelques épisodes aux tendances réalistes.	tendances réalistes	tonality	tendances réalistes
-83.15	r_s	sensibilité larmoyante, malheurs.	sensibilité	tonality	sensibilité
-83.26	r_s	prose poétique.	prose poétique	tonality	style poétique
-83.31	r_s	sensibilité larmoyante.	sensibilité	tonality	sensibilité
-83.40	r_s	précisions pornographiques.	précisions pornographiques	tonality	précisions pornographiques
-83.42	r_s	ton sensible.	ton sensible	tonality	sensibilité
-84.58	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	sensibilité	tonality	sensibilité
-84.58	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	tendances réalistes	tonality	tendances réalistes
-85.24	r_s	critique sociale, analyse psychologique.	critique	tonality	critique
-86.27	r_s	sensibilité, vie à la campagne.	vie à la campagne	tonality	attachement à la nature
-86.27	r_s	sensibilité, vie à la campagne.	sensibilité	tonality	sensibilité
-87.54bis	r_s	sensibilité passionnée, retour à la nature.	retour à la nature	tonality	attachement à la nature
-87.54bis	r_s	sensibilité passionnée, retour à la nature.	sensibilité	tonality	sensibilité
-88.53	r_s	style poétique.	style poétique	tonality	style poétique
-90.47	r_s	ton satirique.	ton satirique	tonality	satire
-91.42	r_s	détails pornographiques.	détails pornographiques	tonality	précisions pornographiques
-91.43	r_s	conte philosophique.	conte philosophique	tonality	contes
-91.44	r_s	ton satirique.	ton satirique	tonality	satire
-93.16	r_s	précisions pornographiques.	précisions pornographiques	tonality	précisions pornographiques
-95.20	r_s	sensibilité.	sensibilité	tonality	sensibilité
-95.37	r_s	précisions pornographiques.	précisions pornographiques	tonality	précisions pornographiques
-98.41	r_s	sensibilité, vertu.	sensibilité	tonality	sensibilité
-99.62	r_s	analyse des sentiments, sensibilité, vertu.	sensibilité	tonality	sensibilité
-99.76	r_s	nature, sensibilité, vertu, bienfaisance.	sensibilité	tonality	sensibilité
+bgrf_id	mimotext_id	column	text	keyword	property	concept	concept_id
+52.32	Q1259	r_s	conte allégorique; style poétique	allégorique	P38	allégorie	Q3895 
+53.33	Q1285	r_s	allégorie humoristique, en forme de rêve, sur des questions d’eugénique	allégorie	P38	allégorie	Q3895 
+59.17	Q1391	r_s	Les voiages de la Raison, fable allégorique	allégorique	P38	allégorie	Q3895 
+66.8	Q1586	r_s	allégorie de la vie politique (selon l’auteur)	allégorie	P38	allégorie	Q3895 
+70.16	Q1721	r_s	allégorie morale	allégorie	P38	allégorie	Q3895 
+89.18	Q2331	r_s	conte allégorique, critique de la noblesse	allégorique	P38	allégorie	Q3895 
+89.90	Q2368	r_s	allégories, ton sentimental	allégorie	P38	allégorie	Q3895 
+89.98	Q2373	r_s	allégorie	allégorie	P38	allégorie	Q3895 
+75.13	Q1871	r_s	sensibilité, retour à la nature	retour à la nature	P38	attachement à la nature	Q3898 
+80.16	Q2014	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	retour à la nature	P38	attachement à la nature	Q3898 
+83.22	Q2091	r_s	sensibilité, malheurs; vie à la campagne	vie à la campagne	P38	attachement à la nature	Q3898 
+86.27	Q1067	r_s	sensibilité, vie à la campagne	vie à la campagne	P38	attachement à la nature	Q3898 
+90.41	Q2397	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	éloge de la vie simple	P38	attachement à la nature	Q3898 
+86.27	Q1067	r_s	sensibilité, vie à la campagne.	vie à la campagne	P38	attachement à la nature	Q3898 
+87.54bis	Q1071	r_s	sensibilité passionnée, retour à la nature.	retour à la nature	P38	attachement à la nature	Q3898 
+52.4	Q1263	r_s	conte de fée avec des traits satiriques	conte de fée	P38	conte de fée	Q3899 
+53.7	Q1289	r_s	conte de fées	conte de fée	P38	conte de fée	Q3899 
+55.18	Q1321	r_s	conte de fées	conte de fée	P38	conte de fée	Q3899 
+55.23	Q1325	r_s	conte de fées	conte de fée	P38	conte de fée	Q3899 
+55.35	Q1336	r_s	mythologie et féerie	mythologie et féerie	P38	conte de fée	Q3899 
+67.22	Q1601	r_s	éléments surnaturels (magie Blanche)	éléments surnaturels (magie Blanche)	P38	conte de fée	Q3899 
+82.26	Q2065	r_s	éléments merveilleux, style élevé	éléments merveilleux	P38	conte de fée	Q3899 
+99.160	Q2691	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	éléments merveilleux	P38	conte de fée	Q3899 
+53.23	Q1279	r_s	conte oriental merveilleux	conte oriental merveilleux	P38	contes	Q3900 
+85.3	Q2175	r_s	récit coupé en ’mois’	récit coupé en ’mois’	P38	contes	Q3900 
+85.42	Q2185	r_s	conte philosophique	conte philosophique	P38	contes	Q3900 
+92.8	Q2480	r_s	récit d’après un tableau de Raphaël	récit d’après un tableau de Raphaël	P38	contes	Q3900 
+97.17	Q2565	r_s	conte philosophique	conte philosophique	P38	contes	Q3900 
+91.43	Q1079	r_s	conte philosophique.	conte philosophique	P38	contes	Q3900 
+00.118	Q1120	r_s	couleur locale	couleur locale	P38	couleur locale	Q3901 
+69.23	Q1683	r_s	ton noble, couleur locale	couleur locale	P38	couleur locale	Q3901 
+71.11	Q1764	r_s	couleur locale africaine	couleur locale	P38	couleur locale	Q3901 
+72.27	Q1805	r_s	sensibilité passionnée, couleur locale	couleur locale	P38	couleur locale	Q3901 
+88.106	Q2274	r_s	cadre pastoral, forte couleur locale	forte couleur locale	P38	couleur locale	Q3901 
+90.25	Q2388	r_s	couleur locale (mots tahitiens dans le texte)	couleur locale	P38	couleur locale	Q3901 
+91.18	Q2426	r_s	sensibilité, couleur locale	couleur locale	P38	couleur locale	Q3901 
+77.50	Q1048	r_s	roman philosophique (contre le fanatisme), couleur locale, épopée en prose.	couleur locale	P38	couleur locale	Q3901 
+00.137	Q1139	r_s	critique des mœurs et des institutions (à la manière des Lettres persanes)	critique	P38	critique	Q3902 
+55.11	Q1316	r_s	critique des mœurs, ton satirique	critique	P38	critique	Q3902 
+55.19	Q1322	r_s	thèses féministes	thèses féministes	P38	critique	Q3902 
+56.2	Q1354	r_s	critique des couvents	critique	P38	critique	Q3902 
+56.3	Q1359	r_s	ton anti-religieux	ton anti-religieux	P38	critique	Q3902 
+62.37	Q1454	r_s	critique des mœurs	critique	P38	critique	Q3902 
+62.7	Q1459	r_s	critique des mœurs à la manière du Diable boiteux	critique	P38	critique	Q3902 
+63.30	Q1475	r_s	critique des mœurs, ton comique	critique	P38	critique	Q3902 
+65.11	Q1518	r_s	critique des mœurs, ton satirique	critique	P38	critique	Q3902 
+67.29	Q1605	r_s	critique de l’église et des dogmes catholiques	critique	P38	critique	Q3902 
+68.56	Q1668	r_s	critique des mœurs, thèmes philosophiques	critique	P38	critique	Q3902 
+69.69	Q1715	r_s	critique de l’Eglise, thèmes philosophiques	critique	P38	critique	Q3902 
+71.15	Q1768	r_s	thèmes anticléricaux	thèmes anticléricaux	P38	critique	Q3902 
+73.15	Q1823	r_s	critique des mœurs et observations morales	critique	P38	critique	Q3902 
+78.29	Q1972	r_s	critique des mœurs	critique	P38	critique	Q3902 
+80.16	Q2014	r_s	retour à la nature, thèmes anticléricaux (religion naturelle)	thèmes anticléricaux	P38	critique	Q3902 
+80.17	Q2015	r_s	critique des mœurs anglaises	critique	P38	critique	Q3902 
+81.29	Q2052	r_s	thèmes philosophiques, théories pseudoscientifiques, critique des mœurs	critique	P38	critique	Q3902 
+84.3	Q2136	r_s	critique polémique	critique	P38	critique	Q3902 
+86.8	Q2230	r_s	sensibilité, prétentions moralisatrices, attaques contre les philosophes	attaques contre les philosophes	P38	critique	Q3902 
+87.1	Q2232	r_s	thème de l’éducation, critique des mœurs	critique	P38	critique	Q3902 
+87.20	Q2237	r_s	thèmes anticléricaux, ton satirique	thèmes anticléricaux	P38	critique	Q3902 
+89.18	Q2331	r_s	conte allégorique, critique de la noblesse	critique	P38	critique	Q3902 
+93.6	Q2491	r_s	attaques contre les monarques	attaques contre les monarques	P38	critique	Q3902 
+94.7	Q2504	r_s	thèmes anticléricaux, vertus républicaines	thèmes anticléricaux	P38	critique	Q3902 
+99.157	Q2687	r_s	critique des mœurs	critique	P38	critique	Q3902 
+99.158	Q2688	r_s	critique sociale, ton moralisateur et sensible	critique	P38	critique	Q3902 
+62.11	Q1026	r_s	critique des mœurs, ton satirique.	critique	P38	critique	Q3902 
+85.24	Q1066	r_s	critique sociale, analyse psychologique.	critique	P38	critique	Q3902 
+00.137	Q1139	r_s	critique des mœurs et des institutions (à la manière des Lettres persanes)	à la manière des Lettres persanes	P38	manière imitée (parodie)	Q3903 
+00.54	Q1176	r_s	sensibilité, mélancolie, éléments du roman noir (grotte, couvents)	éléments du roman noir (grotte, couvents)	P38	manière imitée (parodie)	Q3903 
+51.32	Q1228	r_s	dans le style de Prévost	dans le style de Prévost	P38	manière imitée (parodie)	Q3903 
+51.34	Q1230	r_s	vogue du genre troubadour	vogue du genre troubadour	P38	manière imitée (parodie)	Q3903 
+55.27	Q1328	r_s	parodie des récits de voyages, ton pseudo-héroïque	parodie des récits de voyages	P38	manière imitée (parodie)	Q3903 
+63.32	Q1476	r_s	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	parodie	P38	manière imitée (parodie)	Q3903 
+63.7	Q1486	r_s	sensibilité effrénée (parodie de la Nouvelle Héloïse)	parodie	P38	manière imitée (parodie)	Q3903 
+64.27	Q1501	r_s	à la manière des Lettres persanes	à la manière des Lettres persanes	P38	manière imitée (parodie)	Q3903 
+65.19	Q1525	r_s	mélancolie, sensibilité (à la manière de Prévost)	à la manière de Prévost	P38	manière imitée (parodie)	Q3903 
+65.42	Q1543	r_s	sensibilité, malheurs, intentions moralisatrices (à la manière de Prévost)	à la manière de Prévost	P38	manière imitée (parodie)	Q3903 
+66.15	Q1560	r_s	mélancolie, sensibilité (à la manière de Prévost)	à la manière de Prévost	P38	manière imitée (parodie)	Q3903 
+67.26	Q1604	r_s	A la manière des Lettres persanes	A la manière des Lettres persanes	P38	manière imitée (parodie)	Q3903 
+68.29	Q1642	r_s	sensibilité, mélancolie, héros ‘philosophe’ (à la manière de Prévost)	à la manière de Prévost	P38	manière imitée (parodie)	Q3903 
+72.20	Q1801	r_s	à la manière de Prévost	à la manière de Prévost	P38	manière imitée (parodie)	Q3903 
+73.7	Q1843	r_s	à la manière de Courtilz de Sandras	à la manière de Courtilz de Sandras	P38	manière imitée (parodie)	Q3903 
+74.27	Q1855	r_s	à la manière de Prévost	à la manière de Prévost	P38	manière imitée (parodie)	Q3903 
+75.1	Q1868	r_s	sensibilité. A la manière de Werther	A la manière de Werther	P38	manière imitée (parodie)	Q3903 
+76.43	Q1917	r_s	influence d’Emile	influence d’Emile	P38	manière imitée (parodie)	Q3903 
+85.40	Q2184	r_s	imitations d’Ossian, thèmes philosophiques, intentions didactiques, tendances réalistes	imitations d’Ossia	P38	manière imitée (parodie)	Q3903 
+88.10	Q2271	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	A la manière du Voyage sentimental de Sterne	P38	manière imitée (parodie)	Q3903 
+89.43	Q2345	r_s	A la manière des Lettres persanes	A la manière des Lettres persanes	P38	manière imitée (parodie)	Q3903 
+90.44	Q2399	r_s	dans le genre du Roman comique de Scarron, intentions satiriques	dans le genre du Roman comique de Scarron	P38	manière imitée (parodie)	Q3903 
+99.161	Q2692	r_s	parodie des romans à la mode	parodie des romans à la mode	P38	manière imitée (parodie)	Q3903 
+00.130	Q1132	r_s	éléments historiques, sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+00.54	Q1176	r_s	sensibilité, mélancolie, éléments du roman noir (grotte, couvents)	mélancolie	P38	mélancolie	Q3904 
+00.60	Q1182	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+57.14	Q1369	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+57.15	Q1370	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+60.20	Q1409	r_s	sensibilité, mélancolie, réflexions	mélancolie	P38	mélancolie	Q3904 
+60.28	Q1413	r_s	sensibilité, mélancolie.	mélancolie	P38	mélancolie	Q3904 
+63.41	Q1482	r_s	sensibilité, mélancolie, analyse de l’amour	mélancolie	P38	mélancolie	Q3904 
+65.19	Q1525	r_s	mélancolie, sensibilité (à la manière de Prévost)	mélancolie	P38	mélancolie	Q3904 
+66.15	Q1560	r_s	mélancolie, sensibilité (à la manière de Prévost)	mélancolie	P38	mélancolie	Q3904 
+66.18	Q1562	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+66.35	Q1577	r_s	thèmes philosophiques, sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+67.17	Q1596	r_s	sensibilité effrénée, mélancolie, horreur	mélancolie	P38	mélancolie	Q3904 
+67.18	Q1597	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+67.31	Q1608	r_s	sensibilité passionnée et mélancolique	mélancolique	P38	mélancolie	Q3904 
+68.25	Q1639	r_s	"sensibilité, mélancolie, passions funestes, héros ""philosophe"""	mélancolie	P38	mélancolie	Q3904 
+68.29	Q1642	r_s	sensibilité, mélancolie, héros ‘philosophe’ (à la manière de Prévost)	mélancolie	P38	mélancolie	Q3904 
+68.34	Q1648	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+68.37	Q1651	r_s	sensibilité effrénée, mélancolie (’J’ai déjà trop vécu ’)	mélancolie	P38	mélancolie	Q3904 
+68.5	Q1662	r_s	mélancolie, sensibilité	mélancolie	P38	mélancolie	Q3904 
+69.12	Q1674	r_s	intentions moralisatrices, sensibilité effrénée, mélancolie	mélancolie	P38	mélancolie	Q3904 
+70.27	Q1731	r_s	intentions moralisatrices, sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+70.47	Q1747	r_s	sensibilité, mélancolie, malheurs	mélancolie	P38	mélancolie	Q3904 
+70.56	Q1748	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+72.10	Q1791	r_s	sensibilité effrénée, mélancolie	mélancolie	P38	mélancolie	Q3904 
+74.7	Q1865	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+75.3	Q1882	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+77.54	Q1949	r_s	sensibilité effrénée, mélancolie	mélancolie	P38	mélancolie	Q3904 
+78.11	Q1956	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	mélancolie	P38	mélancolie	Q3904 
+81.11	Q2038	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+83.33	Q2097	r_s	nature, vertu, sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+83.41	Q2102	r_s	mélancolie, désespoir, poème en prose	mélancolie	P38	mélancolie	Q3904 
+88.46	Q2291	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+88.55	Q2298	r_s	sensibilité passionnée, réflexions mélancoliques	mélancolique	P38	mélancolie	Q3904 
+88.87	Q2312	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+89.12	Q2328	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+90.41	Q2397	r_s	mélancolie, thèmes préromantiques, éloge de la vie simple	mélancolie	P38	mélancolie	Q3904 
+92.30	Q2468	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+95.28	Q2515	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+96.33	Q2538	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+97.27	Q2571	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+97.59	Q2584	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+97.68	Q2590	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+98.22	Q2603	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+98.94	Q2639	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+99.121	Q2659	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+99.125	Q2663	r_s	sensibilité, mélancolie	mélancolie	P38	mélancolie	Q3904 
+99.135	Q2670	r_s	sensibilité mélancolique	mélancolique	P38	mélancolie	Q3904 
+99.174	Q2698	r_s	mélancolie, sensibilité, épisodes sombres	mélancolie	P38	mélancolie	Q3904 
+58.17	Q1018	r_s	analyse des sentiments, mélancolie.	mélancolie	P38	mélancolie	Q3904 
+60.21	Q1023	r_s	sensibilité, mélancolie.	mélancolie	P38	mélancolie	Q3904 
+67.36	Q1032	r_s	sensibilité, mélancolie, sentiments chrétiens et anti-philosophiques.	mélancolie	P38	mélancolie	Q3904 
+00.16	Q1148	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+00.64	Q1186	r_s	précisions pornographiques, ton satirique	précisions pornographiques	P38	précisions pornographiques	Q3905 
+54.2	Q1297	r_s	détails pornographiques	détails pornographiques	P38	précisions pornographiques	Q3905 
+56.7	Q1364	r_s	ton ordurier, style poissard	ton ordurier	P38	précisions pornographiques	Q3905 
+70.18	Q1723	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+78.4	Q1979	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+83.1	Q2080	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+89.21	Q2334	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+90.13	Q2379	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+92.2	Q2461	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+92.33	Q2470	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+92.34	Q2471	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+93.4	Q2489	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+96.5	Q2548	r_s	détails pornographiques	détails pornographiques	P38	précisions pornographiques	Q3905 
+97.71	Q2592	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+99.13	Q2667	r_s	précisions pornographiques	précisions pornographiques	P38	précisions pornographiques	Q3905 
+00.37	Q1009	r_s	précisions pornographiques. (Ce serait une satire contre Joséphine de Beauharnais, madame Tallien et madame Visconti.)	précisions pornographiques	P38	précisions pornographiques	Q3905 
+83.40	Q1059	r_s	précisions pornographiques.	précisions pornographiques	P38	précisions pornographiques	Q3905 
+91.42	Q1078	r_s	détails pornographiques.	détails pornographiques	P38	précisions pornographiques	Q3905 
+93.16	Q1081	r_s	précisions pornographiques.	précisions pornographiques	P38	précisions pornographiques	Q3905 
+95.37	Q1086	r_s	précisions pornographiques.	précisions pornographiques	P38	précisions pornographiques	Q3905 
+00.100	Q1103	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+00.121	Q1124	r_s	ton satirique, tendances réalistes	ton satirique	P38	satire	Q3906 
+00.138	Q1140	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+00.19	Q1151	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+00.21	Q1152	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+00.43	Q1168	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+00.57	Q1179	r_s	style familier, ton satirique	ton satirique	P38	satire	Q3906 
+00.64	Q1186	r_s	précisions pornographiques, ton satirique	ton satirique	P38	satire	Q3906 
+00.66	Q1188	r_s	ton satirique, thèmes philosophiques, sensibilité	ton satirique	P38	satire	Q3906 
+51.36	Q1232	r_s	autobiographie romancée, avec traits satiriques	traits satiriques	P38	satire	Q3906 
+51.38	Q1234	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+51.39	Q1235	r_s	satire de la religion chrétienne, du luxe, etc.	satire	P38	satire	Q3906 
+52.17	Q1248	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+52.18	Q1249	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+52.28	Q1255	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+52.4	Q1263	r_s	conte de fée avec des traits satiriques	traits satiriques	P38	satire	Q3906 
+53.5	Q1288	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+53.8	Q1290	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+54.10	Q1293	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+55.10	Q1315	r_s	ton scabreux	ton scabreux	P38	satire	Q3906 
+55.11	Q1316	r_s	critique des mœurs, ton satirique	ton satirique	P38	satire	Q3906 
+55.38	Q1339	r_s	éléments satiriques	éléments satiriques	P38	satire	Q3906 
+57.10	Q1368	r_s	satire du parti des Philosophes	satire	P38	satire	Q3906 
+58.1	Q1376	r_s	ton satirique, réflexions philosophiques	ton satirique	P38	satire	Q3906 
+59.9	Q1401	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+60.1	Q1402	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+60.14	Q1405	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+60.24	Q1411	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+61.22	Q1432	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+61.25	Q1433	r_s	Utopie et tendances satiriques	Utopie et tendances satiriques	P38	satire	Q3906 
+61.3	Q1435	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+62.36	Q1453	r_s	satire des disputes entre Jésuites et Capucins	satire	P38	satire	Q3906 
+63.10	Q1462	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+63.32	Q1476	r_s	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	ton satirique (parodie des ‘mémoires’ dans le genre de la Vie de Marianne)	P38	satire	Q3906 
+63.42	Q1483	r_s	remarques sur les mœurs, les institutions, thèmes philosophiques, ton satirique	ton satirique	P38	satire	Q3906 
+63.5	Q1484	r_s	satire contre les Jésuites	satire contre les Jésuites	P38	satire	Q3906 
+64.44	Q1510	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+65.11	Q1518	r_s	critique des mœurs, ton satirique	ton satirique	P38	satire	Q3906 
+65.38	Q1540	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+65.7	Q1554	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+66.21	Q1566	r_s	ton satirique, thèmes philosophiques	ton satirique	P38	satire	Q3906 
+66.24	Q1568	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+66.37	Q1579	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+67.12	Q1591	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+67.3	Q1606	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+67.38	Q1611	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+67.47	Q1618	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+67.52	Q1622	r_s	ton satirique, sensibilité à la fin	ton satirique	P38	satire	Q3906 
+68.22	Q1636	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+68.23	Q1637	r_s	satire des institutions économiques	satire	P38	satire	Q3906 
+68.38	Q1652	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+68.41	Q1655	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+68.53	Q1666	r_s	ton satirique, intentions moralisatrices	ton satirique	P38	satire	Q3906 
+69.14	Q1676	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+69.25	Q1685	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+69.52	Q1706	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+69.63	Q1712	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+70.32	Q1735	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+70.6	Q1751	r_s	ton ironique, épopée burlesque	ton ironique	P38	satire	Q3906 
+70.65	Q1755	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+70.77	Q1763	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+71.27	Q1775	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+71.8	Q1789	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+72.15	Q1797	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+72.6	Q1816	r_s	ton satirique, thèmes philosophiques	ton satirique	P38	satire	Q3906 
+73.19	Q1827	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+73.21	Q1828	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+73.4	Q1840	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+74.5	Q1863	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+75.18	Q1875	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+75.27	Q1881	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+75.38	Q1887	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+76.24	Q1904	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+76.45	Q1919	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+77.13	Q1930	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+78.15	Q1959	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+78.18	Q1961	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+78.25	Q1968	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+79.1	Q1982	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+79.10	Q1983	r_s	ton satirique, tendances réalistes	ton satirique	P38	satire	Q3906 
+79.11	Q1984	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+79.36	Q2004	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+80.18	Q2016	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+81.18	Q2044	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+81.6	Q2056	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+82.2	Q2062	r_s	ton satirique, puis sensibilité	ton satirique	P38	satire	Q3906 
+82.3	Q2068	r_s	satire des Jésuites	satire	P38	satire	Q3906 
+83.56	Q2113	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+84.23	Q2130	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+84.36	Q2141	r_s	thèmes philosophiques, ton satirique	ton satirique	P38	satire	Q3906 
+84.38	Q2143	r_s	ton ironique	ton ironique	P38	satire	Q3906 
+84.39	Q2144	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+85.16	Q2165	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+85.19	Q2166	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+85.33	Q2176	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+85.38	Q2181	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+85.43	Q2186	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+86.46	Q2215	r_s	ton satirique, prétentions philosophiques	ton satirique	P38	satire	Q3906 
+86.60	Q2225	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+87.16	Q2236	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+87.20	Q2237	r_s	thèmes anticléricaux, ton satirique	ton satirique	P38	satire	Q3906 
+87.60	Q2261	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+87.68	Q2265	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+88.17	Q2279	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+88.25	Q2282	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+88.86	Q2311	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+88.96	Q2321	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+89.2	Q2332	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+89.58	Q2356	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+89.63	Q2358	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+90.17	Q2383	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+90.40	Q2396	r_s	ton satirique, style ’ancien ’	ton satirique	P38	satire	Q3906 
+90.7	Q2416	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+91.24	Q2432	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+91.8	Q2451	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+92.17	Q2459	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+92.7	Q2479	r_s	satire des mœurs	satire	P38	satire	Q3906 
+93.5	Q2490	r_s	satire politique, religieuse, médicale	satire	P38	satire	Q3906 
+97.61	Q2586	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+98.3	Q2606	r_s	thèmes philosophiques, ton satirique (imitation de Candide)	ton satirique (imitation de Candide)	P38	satire	Q3906 
+98.34	Q2609	r_s	construction désordonnée, ton satirique et facétieux	ton satirique	P38	satire	Q3906 
+98.82	Q2634	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.110	Q2649	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.114	Q2653	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.128	Q2665	r_s	ton satirique, thèmes philosophiques	ton satirique	P38	satire	Q3906 
+99.141	Q2676	r_s	ton satirique, tendances réalistes	ton satirique	P38	satire	Q3906 
+99.33	Q2713	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.44	Q2722	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.46	Q2723	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.50	Q2727	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+99.65	Q2735	r_s	ton satirique, sensibilité	ton satirique	P38	satire	Q3906 
+99.92	Q2757	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+00.37	Q1009	r_s	précisions pornographiques. (Ce serait une satire contre Joséphine de Beauharnais, madame Tallien et madame Visconti.)	satire	P38	satire	Q3906 
+52.43	Q1011	r_s	thèmes philosophiques, ton satirique.	ton satirique	P38	satire	Q3906 
+58.5	Q1019	r_s	ton satirique	ton satirique	P38	satire	Q3906 
+62.11	Q1026	r_s	critique des mœurs, ton satirique.	ton satirique	P38	satire	Q3906 
+71.36	Q1039	r_s	ton satirique.	ton satirique	P38	satire	Q3906 
+90.47	Q1077	r_s	ton satirique.	ton satirique	P38	satire	Q3906 
+91.44	Q1080	r_s	ton satirique.	ton satirique	P38	satire	Q3906 
+00.10	Q1102	r_s	ton sensible, réflexions morales	ton sensible	P38	sensibilité	Q3907 
+00.102	Q1105	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+00.117	Q1119	r_s	ton léger mêlé de sensibilité	sensibilité	P38	sensibilité	Q3907 
+00.130	Q1132	r_s	éléments historiques, sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+00.131	Q1133	r_s	sensibilité, éléments du roman noir	sensibilité	P38	sensibilité	Q3907 
+00.146	Q1144	r_s	sensibilité et prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+00.26	Q1157	r_s	bienfaisance, sensibilité	sensibilité	P38	sensibilité	Q3907 
+00.44	Q1169	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+00.48	Q1170	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+00.54	Q1176	r_s	sensibilité, mélancolie, éléments du roman noir (grotte, couvents)	sensibilité	P38	sensibilité	Q3907 
+00.60	Q1182	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+00.62	Q1184	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+00.66	Q1188	r_s	ton satirique, thèmes philosophiques, sensibilité	sensibilité	P38	sensibilité	Q3907 
+00.7	Q1192	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+00.74	Q1196	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+00.75	Q1197	r_s	sensibilité, but moralisateur	sensibilité	P38	sensibilité	Q3907 
+00.96	Q1210	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+51.1	Q1212	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+51.25	Q1224	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+51.3	Q1226	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+51.9	Q1241	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+52.26	Q1253	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+52.29	Q1256	r_s	ton pseudo-historique et sensible	ton pseudo-historique et sensible	P38	sensibilité	Q3907 
+52.41	Q1265	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+52.42	Q1266	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+52.7	Q1267	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+53.1	Q1269	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+53.14	Q1273	r_s	réflexions morales, sensibilité	sensibilité	P38	sensibilité	Q3907 
+53.27	Q1281	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+53.28	Q1282	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+53.31	Q1284	r_s	sensibilité, intentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+55.20	Q1323	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+55.22	Q1324	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+55.28	Q1329	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+56.11	Q1349	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+56.8	Q1365	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+57.14	Q1369	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+57.15	Q1370	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+57.2	Q1373	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+58.15	Q1378	r_s	réflexions philosophiques, sensibilité	sensibilité	P38	sensibilité	Q3907 
+58.4	Q1384	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+58.7	Q1385	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+60.10	Q1403	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+60.20	Q1409	r_s	sensibilité, mélancolie, réflexions	sensibilité	P38	sensibilité	Q3907 
+60.28	Q1413	r_s	sensibilité, mélancolie.	sensibilité	P38	sensibilité	Q3907 
+61.18	Q1429	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+61.9	Q1437	r_s	sensibilité, fatalité	sensibilité	P38	sensibilité	Q3907 
+62.14	Q1441	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+62.32	Q1452	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+63.23	Q1471	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+63.41	Q1482	r_s	sensibilité, mélancolie, analyse de l’amour	sensibilité	P38	sensibilité	Q3907 
+63.7	Q1486	r_s	sensibilité effrénée (parodie de la Nouvelle Héloïse)	sensibilité effrénée (parodie de la Nouvelle Héloïse)	P38	sensibilité	Q3907 
+63.8	Q1487	r_s	but moralisateur, sensibilité	sensibilité	P38	sensibilité	Q3907 
+64.1	Q1489	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+64.14	Q1494	r_s	sensibilité effrénée, ton sombre	sensibilité	P38	sensibilité	Q3907 
+64.3	Q1502	r_s	ton moralisateur, sensibilité	sensibilité	P38	sensibilité	Q3907 
+64.40	Q1507	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+64.6	Q1513	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.19	Q1525	r_s	mélancolie, sensibilité (à la manière de Prévost)	sensibilité	P38	sensibilité	Q3907 
+65.2	Q1526	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.20	Q1527	r_s	tendances réalistes, sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.22	Q1529	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.25	Q1531	r_s	intentions moralisatrices, sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.26	Q1532	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+65.31	Q1535	r_s	extrême sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.42	Q1543	r_s	sensibilité, malheurs, intentions moralisatrices (à la manière de Prévost)	sensibilité	P38	sensibilité	Q3907 
+65.44	Q1545	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+65.8	Q1555	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+66.15	Q1560	r_s	mélancolie, sensibilité (à la manière de Prévost)	sensibilité	P38	sensibilité	Q3907 
+66.16	Q1561	r_s	sensibilité passionnée	sensibilité	P38	sensibilité	Q3907 
+66.18	Q1562	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+66.27	Q1570	r_s	sensibilité, malheurs	sensibilité	P38	sensibilité	Q3907 
+66.28	Q1571	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+66.30	Q1573	r_s	intentions moralisatrices, sensibilité	sensibilité	P38	sensibilité	Q3907 
+66.35	Q1577	r_s	thèmes philosophiques, sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+66.38	Q1580	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+66.5	Q1583	r_s	sensibilité, malheurs	sensibilité	P38	sensibilité	Q3907 
+66.9	Q1587	r_s	sensibilité effrénée, vertu, bienfaisance	sensibilité	P38	sensibilité	Q3907 
+67.14	Q1593	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+67.15	Q1594	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+67.16	Q1595	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+67.17	Q1596	r_s	sensibilité effrénée, mélancolie, horreur	sensibilité	P38	sensibilité	Q3907 
+67.18	Q1597	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+67.24	Q1603	r_s	sensibilité, bienfaisance, vertu	sensibilité	P38	sensibilité	Q3907 
+67.31	Q1608	r_s	sensibilité passionnée et mélancolique	sensibilité	P38	sensibilité	Q3907 
+67.4	Q1612	r_s	sensibilité effrénée, vertu	sensibilité	P38	sensibilité	Q3907 
+67.41	Q1614	r_s	intentions moralisatrices, vertu, sensibilité	sensibilité	P38	sensibilité	Q3907 
+67.43	Q1615	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+67.48	Q1619	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+67.52	Q1622	r_s	ton satirique, sensibilité à la fin	sensibilité	P38	sensibilité	Q3907 
+68.12	Q1628	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+68.19	Q1633	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	sensibilité	P38	sensibilité	Q3907 
+68.25	Q1639	r_s	"sensibilité, mélancolie, passions funestes, héros ""philosophe"""	sensibilité	P38	sensibilité	Q3907 
+68.29	Q1642	r_s	sensibilité, mélancolie, héros ‘philosophe’ (à la manière de Prévost)	sensibilité	P38	sensibilité	Q3907 
+68.34	Q1648	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+68.36	Q1650	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+68.37	Q1651	r_s	sensibilité effrénée, mélancolie (’J’ai déjà trop vécu ’)	sensibilité	P38	sensibilité	Q3907 
+68.44	Q1658	r_s	sensibilité larmoyante	sensibilité	P38	sensibilité	Q3907 
+68.5	Q1662	r_s	mélancolie, sensibilité	sensibilité	P38	sensibilité	Q3907 
+68.7	Q1670	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+68.9	Q1671	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.12	Q1674	r_s	intentions moralisatrices, sensibilité effrénée, mélancolie	sensibilité	P38	sensibilité	Q3907 
+69.13	Q1675	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+69.2	Q1680	r_s	bienfaisance, vertu, sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.20	Q1681	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.29	Q1689	r_s	sensibilité passionnée	sensibilité	P38	sensibilité	Q3907 
+69.30	Q1690	r_s	ton sensible, intentions moralisatrices	ton sensible	P38	sensibilité	Q3907 
+69.35	Q1694	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.41	Q1697	r_s	vertu, sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.44	Q1698	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.50	Q1704	r_s	vertu, sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+69.51	Q1705	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+69.56	Q1708	r_s	sensibilité, vertu, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+69.60	Q1711	r_s	prétentions moralisatrices, sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+69.65	Q1713	r_s	sensibilité effrénée, analyse des sentiments	sensibilité	P38	sensibilité	Q3907 
+69.9	Q1717	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+70.22	Q1726	r_s	prétentions moralisatrices, sensibilité	sensibilité	P38	sensibilité	Q3907 
+70.27	Q1731	r_s	intentions moralisatrices, sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+70.3	Q1734	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+70.43	Q1743	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+70.45	Q1745	r_s	ton léger, fin sensible	fin sensible	P38	sensibilité	Q3907 
+70.47	Q1747	r_s	sensibilité, mélancolie, malheurs	sensibilité	P38	sensibilité	Q3907 
+70.56	Q1748	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+70.71	Q1758	r_s	sensibilité, vertu, nobles sauvages	sensibilité	P38	sensibilité	Q3907 
+70.74	Q1760	r_s	sensibilité passionnée, poème en prose	sensibilité	P38	sensibilité	Q3907 
+71.17	Q1769	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+71.21	Q1771	r_s	sensibilité, thème de l’esclavage	sensibilité	P38	sensibilité	Q3907 
+71.24	Q1774	r_s	malheurs, sensibilité	sensibilité	P38	sensibilité	Q3907 
+72.1	Q1790	r_s	sensibilité larmoyante, vertu	sensibilité	P38	sensibilité	Q3907 
+72.10	Q1791	r_s	sensibilité effrénée, mélancolie	sensibilité	P38	sensibilité	Q3907 
+72.11	Q1792	r_s	sensibilité, genre troubadour	sensibilité	P38	sensibilité	Q3907 
+72.18	Q1799	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+72.27	Q1805	r_s	sensibilité passionnée, couleur locale	sensibilité	P38	sensibilité	Q3907 
+72.32	Q1810	r_s	sensibilité, analyse des sentiments	sensibilité	P38	sensibilité	Q3907 
+72.34	Q1812	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+72.35	Q1813	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+72.4	Q1814	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+73.11	Q1821	r_s	passion, sensibilité	sensibilité	P38	sensibilité	Q3907 
+73.16	Q1824	r_s	sensibilité, intentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+73.27	Q1832	r_s	sensibilité, style élevé	sensibilité	P38	sensibilité	Q3907 
+73.34	Q1837	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+73.35	Q1838	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+73.36	Q1839	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+73.5	Q1841	r_s	sensibilité, malheurs	sensibilité	P38	sensibilité	Q3907 
+73.9	Q1845	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+74.10	Q1846	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+74.11	Q1847	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+74.17	Q1850	r_s	sensibilité, intentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+74.19	Q1852	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+74.29	Q1856	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+74.30	Q1858	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+74.31	Q1859	r_s	sensibilité, sombres malheurs	sensibilité	P38	sensibilité	Q3907 
+74.32	Q1860	r_s	sensibilité, moyen âge chevaleresque	sensibilité	P38	sensibilité	Q3907 
+74.4	Q1862	r_s	sensibilité, bienfaisance	sensibilité	P38	sensibilité	Q3907 
+74.6	Q1864	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+74.7	Q1865	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+74.9	Q1867	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+75.1	Q1868	r_s	sensibilité. A la manière de Werther	sensibilité	P38	sensibilité	Q3907 
+75.10	Q1869	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	sensibilité	P38	sensibilité	Q3907 
+75.13	Q1871	r_s	sensibilité, retour à la nature	sensibilité	P38	sensibilité	Q3907 
+75.14	Q1872	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+75.15	Q1873	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+75.16	Q1874	r_s	sensibilité effrénée, malheurs	sensibilité	P38	sensibilité	Q3907 
+75.19	Q1876	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+75.1bis	Q1877	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+75.20	Q1878	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+75.25	Q1880	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+75.3	Q1882	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+75.31	Q1884	r_s	sensibilité, discussions	sensibilité	P38	sensibilité	Q3907 
+75.36	Q1886	r_s	sensibilité effrénée, malheurs	sensibilité	P38	sensibilité	Q3907 
+75.40	Q1888	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+75.41	Q1889	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+76.10bis	Q1897	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+76.12	Q1898	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+76.13	Q1899	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+76.17	Q1901	r_s	sensibilité passionnée	sensibilité	P38	sensibilité	Q3907 
+76.30	Q1908	r_s	sensibilité effrénée, malheurs, vertu	sensibilité	P38	sensibilité	Q3907 
+76.33	Q1911	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+76.39	Q1915	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+76.44	Q1918	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	sensibilité	P38	sensibilité	Q3907 
+76.49	Q1922	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+76.50	Q1924	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+76.51	Q1925	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+77.1	Q1927	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+77.10	Q1928	r_s	sensibilité, nature, malheurs	sensibilité	P38	sensibilité	Q3907 
+77.11	Q1929	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+77.16	Q1932	r_s	sensibilité effrénée, vertu, bienfaisance	sensibilité	P38	sensibilité	Q3907 
+77.38	Q1938	r_s	sensibilité, prétentions morales (portrait du citoyen vertueux)	sensibilité	P38	sensibilité	Q3907 
+77.52	Q1947	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+77.53	Q1948	r_s	sensibilité, vertu, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+77.54	Q1949	r_s	sensibilité effrénée, mélancolie	sensibilité	P38	sensibilité	Q3907 
+77.8	Q1954	r_s	sensibilité effrénée, effets d’horreur	sensibilité	P38	sensibilité	Q3907 
+77.9	Q1955	r_s	sensibilité larmoyante	sensibilité	P38	sensibilité	Q3907 
+78.11	Q1956	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	sensibilité	P38	sensibilité	Q3907 
+78.12	Q1957	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+78.13	Q1958	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+78.16	Q1960	r_s	vertu, sensibilité	sensibilité	P38	sensibilité	Q3907 
+78.20	Q1964	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+78.26	Q1969	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+78.27	Q1970	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+78.30	Q1973	r_s	sensibilité, but didactique, esprit de système	sensibilité	P38	sensibilité	Q3907 
+78.34	Q1977	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+78.9	Q1981	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+79.2	Q1990	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+79.26	Q1994	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+79.31	Q2000	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+79.34	Q2002	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+79.35	Q2003	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+79.4	Q2005	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+79.8	Q2008	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+79.9	Q2009	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+80.10	Q2010	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+80.11	Q2011	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+80.20	Q2019	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+80.24	Q2023	r_s	sensibilité, analyse des passions	sensibilité	P38	sensibilité	Q3907 
+80.27	Q2025	r_s	réalisme du cadre, autobiographie romancée, sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+80.28	Q2026	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+80.9	Q2035	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+81.1	Q2036	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+81.10	Q2037	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+81.11	Q2038	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+81.13	Q2040	r_s	sensibilité passionnée, nature	sensibilité	P38	sensibilité	Q3907 
+81.15	Q2041	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+81.32	Q2054	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+81.9	Q2058	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+82.13	Q2060	r_s	sensibilité, observations politiques et morales	sensibilité	P38	sensibilité	Q3907 
+82.2	Q2062	r_s	ton satirique, puis sensibilité	ton satirique, puis sensibilité	P38	sensibilité	Q3907 
+82.24	Q2064	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+82.28	Q2066	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+82.31	Q2069	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+82.36	Q2073	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+82.38	Q2075	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.11	Q2082	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.16	Q2085	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+83.21	Q2090	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+83.22	Q2091	r_s	sensibilité, malheurs; vie à la campagne	sensibilité	P38	sensibilité	Q3907 
+83.33	Q2097	r_s	nature, vertu, sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+83.35	Q2098	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.51	Q2108	r_s	éléments historiques, sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.52	Q2109	r_s	éléments historiques, sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.53	Q2110	r_s	éléments historiques, sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.54	Q2111	r_s	éléments historiques, sensibilité	sensibilité	P38	sensibilité	Q3907 
+83.59	Q2115	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+83.7	Q2117	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+84.13	Q2122	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+84.17	Q2124	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+84.21	Q2128	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+84.29	Q2135	r_s	sensibilité, style épique	sensibilité	P38	sensibilité	Q3907 
+84.34	Q2139	r_s	sensibilité, style poétique	sensibilité	P38	sensibilité	Q3907 
+84.41	Q2147	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+84.9	Q2159	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+85.11	Q2161	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+85.14	Q2164	r_s	vertu, sensibilité, nature	sensibilité	P38	sensibilité	Q3907 
+85.39	Q2182	r_s	sensibilité, malheurs	sensibilité	P38	sensibilité	Q3907 
+86.1	Q2193	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.2	Q2200	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.27	Q1067	r_s	sensibilité, vie à la campagne	sensibilité	P38	sensibilité	Q3907 
+86.29	Q2205	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.33	Q2206	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.42	Q2211	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+86.45	Q2214	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.47	Q2216	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.48	Q2217	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.52	Q2218	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.6	Q2224	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+86.8	Q2230	r_s	sensibilité, prétentions moralisatrices, attaques contre les philosophes	sensibilité	P38	sensibilité	Q3907 
+86.9	Q2231	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+87.29	Q2239	r_s	style élevé, nature, sensibilité	sensibilité	P38	sensibilité	Q3907 
+87.30	Q2240	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+87.61	Q2262	r_s	intentions moralisatrices, sensibilité	sensibilité	P38	sensibilité	Q3907 
+87.8	Q2268	r_s	sensibilité débordante	sensibilité	P38	sensibilité	Q3907 
+88.105	Q2273	r_s	sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+88.14	Q2276	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+88.16	Q2278	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+88.32	Q2285	r_s	sensibilité passionnée	sensibilité	P38	sensibilité	Q3907 
+88.46	Q2291	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+88.48	Q2292	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+88.55	Q2298	r_s	sensibilité passionnée, réflexions mélancoliques	sensibilité	P38	sensibilité	Q3907 
+88.56	Q2299	r_s	prétentions moralisatrices, sensibilité	sensibilité	P38	sensibilité	Q3907 
+88.59	Q2301	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+88.87	Q2312	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+88.98	Q2323	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+89.108	Q2324	r_s	nature, sensibilité, ton grandiose	sensibilité	P38	sensibilité	Q3907 
+89.12	Q2328	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+89.35	Q2341	r_s	sensibilité extrême	sensibilité	P38	sensibilité	Q3907 
+89.55	Q2353	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+89.56	Q2354	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+89.65	Q2360	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+89.82	Q2365	r_s	prétentions moralisatrices, sensibilité	sensibilité	P38	sensibilité	Q3907 
+89.85	Q2366	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+90.1	Q2375	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+90.28	Q2390	r_s	sensibilité passionnée, style élevé	sensibilité	P38	sensibilité	Q3907 
+90.52	Q2405	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+90.65	Q2415	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+91.1	Q2418	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+91.18	Q2426	r_s	sensibilité, couleur locale	sensibilité	P38	sensibilité	Q3907 
+91.19	Q2427	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+91.25	Q2433	r_s	sensibilité effrénée, style entrecoupé	sensibilité	P38	sensibilité	Q3907 
+91.32	Q2438	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+91.40	Q2446	r_s	sensibilité, nature	sensibilité	P38	sensibilité	Q3907 
+92.30	Q2468	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+93.13	Q2483	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+94.1	Q2494	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+94.5	Q2501	r_s	sensibilité, vertu, nature. Imitation de Paul et Virginie	sensibilité	P38	sensibilité	Q3907 
+95.12	Q2507	r_s	vertu, sensibilité	sensibilité	P38	sensibilité	Q3907 
+95.14	Q2509	r_s	prose poétique, peintures voluptueuses, sensibilité passionnée	sensibilité	P38	sensibilité	Q3907 
+95.26	Q2514	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+95.28	Q2515	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+96.12	Q2527	r_s	nature, sensibilité, vertu	sensibilité	P38	sensibilité	Q3907 
+96.17	Q2530	r_s	sensibilité, mais ironie	sensibilité	P38	sensibilité	Q3907 
+96.18bis	Q2531	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+96.33	Q2538	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+96.39	Q2540	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+96.42	Q2543	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+96.52	Q2551	r_s	sensibilité, ton moralisateur	sensibilité	P38	sensibilité	Q3907 
+97.1	Q2559	r_s	sensibilité larmoyante, prose poétique entremêlée de vers	sensibilité	P38	sensibilité	Q3907 
+97.14	Q2562	r_s	sensibilité, nature	sensibilité	P38	sensibilité	Q3907 
+97.25	Q2569	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+97.27	Q2571	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+97.29	Q2572	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+97.59	Q2584	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+97.65	Q2587	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+97.66	Q2588	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+97.68	Q2590	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+97.77	Q2595	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.1	Q2596	r_s	peinture des mœurs, observations morales, sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.10	Q2597	r_s	sensibilité, éléments du roman noir	sensibilité	P38	sensibilité	Q3907 
+98.19	Q2601	r_s	sensibilité, ton moralisateur	sensibilité	P38	sensibilité	Q3907 
+98.22	Q2603	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+98.30	Q2607	r_s	nature, vertu, sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.31	Q2608	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.39	Q2612	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.44	Q2615	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.67	Q2624	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.76	Q2630	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.81	Q2633	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+98.89	Q2636	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+98.94	Q2639	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+98.97	Q2640	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.103	Q2643	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.109	Q2647	r_s	sensibilité, intentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+99.112	Q2651	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.121	Q2659	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+99.125	Q2663	r_s	sensibilité, mélancolie	sensibilité	P38	sensibilité	Q3907 
+99.129	Q2666	r_s	sensibilité, intentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+99.135	Q2670	r_s	sensibilité mélancolique	sensibilité	P38	sensibilité	Q3907 
+99.136	Q2671	r_s	sensibilité, ton moralisateur	sensibilité	P38	sensibilité	Q3907 
+99.137	Q2672	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.138	Q2673	r_s	sensibilité exaltée	sensibilité	P38	sensibilité	Q3907 
+99.146	Q2679	r_s	sensibilité, malheurs	sensibilité	P38	sensibilité	Q3907 
+99.147	Q2680	r_s	sensibilité effrénée, éléments du roman noir	sensibilité	P38	sensibilité	Q3907 
+99.158	Q2688	r_s	critique sociale, ton moralisateur et sensible	ton moralisateur et sensible	P38	sensibilité	Q3907 
+99.167	Q2693	r_s	sensibilité, prétentions moralisatrices	sensibilité	P38	sensibilité	Q3907 
+99.172	Q2696	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.174	Q2698	r_s	mélancolie, sensibilité, épisodes sombres	sensibilité	P38	sensibilité	Q3907 
+99.18	Q2699	r_s	sensibilité effrénée	sensibilité	P38	sensibilité	Q3907 
+99.24	Q2704	r_s	sensibilité effrenée	sensibilité	P38	sensibilité	Q3907 
+99.42	Q2721	r_s	ton sensible	ton sensible	P38	sensibilité	Q3907 
+99.48	Q2725	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.49	Q2726	r_s	sensibilité, nature	sensibilité	P38	sensibilité	Q3907 
+99.53	Q2729	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.59	Q2731	r_s	sensibilité, intentions, moralisatrices	sensibilité	P38	sensibilité	Q3907 
+99.65	Q2735	r_s	ton satirique, sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.66	Q2736	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.69	Q2738	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.70	Q2739	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.75	Q2743	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.77	Q2744	r_s	sensibilité, nature, vertu	sensibilité	P38	sensibilité	Q3907 
+99.83	Q2751	r_s	sensibilité	sensibilité	P38	sensibilité	Q3907 
+99.88	Q2755	r_s	sensibilité, malheurs	sensibilité	P38	sensibilité	Q3907 
+59.22	Q1021	r_s	sensibilité.	sensibilité	P38	sensibilité	Q3907 
+60.21	Q1023	r_s	sensibilité, mélancolie.	sensibilité	P38	sensibilité	Q3907 
+64.39	Q1029	r_s	sensibilité.	sensibilité	P38	sensibilité	Q3907 
+66.11	Q1031	r_s	sensibilité, analyse des sentiments.	sensibilité	P38	sensibilité	Q3907 
+67.36	Q1032	r_s	sensibilité, mélancolie, sentiments chrétiens et anti-philosophiques.	sensibilité	P38	sensibilité	Q3907 
+69.57	Q1036	r_s	sensibilité, vertu, prose poétique.	sensibilité	P38	sensibilité	Q3907 
+71.25	Q1038	r_s	sensibilité effrénée.	sensibilité	P38	sensibilité	Q3907 
+72.19	Q1041	r_s	sensibilité effrénée, analyse d’un problème moral.	sensibilité	P38	sensibilité	Q3907 
+74.15	Q1043	r_s	sensibilité, vertu, prétentions moralisatrices.	sensibilité	P38	sensibilité	Q3907 
+74.20	Q1044	r_s	malheurs, sensibilité passionnée.	sensibilité	P38	sensibilité	Q3907 
+76.36	Q1047	r_s	sensibilité, vertu.	sensibilité	P38	sensibilité	Q3907 
+79.22	Q1051	r_s	sensibilité, vertu.	sensibilité	P38	sensibilité	Q3907 
+82.20	Q1054	r_s	but didactique (roman d’éducation), sensibilité, vertu.	sensibilité	P38	sensibilité	Q3907 
+83.15	Q1056	r_s	sensibilité larmoyante, malheurs.	sensibilité	P38	sensibilité	Q3907 
+83.31	Q1058	r_s	sensibilité larmoyante.	sensibilité	P38	sensibilité	Q3907 
+83.42	Q1060	r_s	ton sensible.	ton sensible	P38	sensibilité	Q3907 
+84.58	Q1065	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	sensibilité	P38	sensibilité	Q3907 
+86.27	Q1067	r_s	sensibilité, vie à la campagne.	sensibilité	P38	sensibilité	Q3907 
+87.54bis	Q1071	r_s	sensibilité passionnée, retour à la nature.	sensibilité	P38	sensibilité	Q3907 
+95.20	Q1084	r_s	sensibilité.	sensibilité	P38	sensibilité	Q3907 
+98.41	Q1092	r_s	sensibilité, vertu.	sensibilité	P38	sensibilité	Q3907 
+99.62	Q1099	r_s	analyse des sentiments, sensibilité, vertu.	sensibilité	P38	sensibilité	Q3907 
+99.76	Q1100	r_s	nature, sensibilité, vertu, bienfaisance.	sensibilité	P38	sensibilité	Q3907 
+52.31	Q1258	r_s	style grandiose	style grandiose	P38	style élevé	Q3908 
+60.15	Q1406	r_s	style grandiose, pseudo-épopée	style grandiose	P38	style élevé	Q3908 
+69.23	Q1683	r_s	ton noble, couleur locale	ton noble	P38	style élevé	Q3908 
+73.22	Q1829	r_s	style élevé, épopée en prose	style élevé	P38	style élevé	Q3908 
+73.27	Q1832	r_s	sensibilité, style élevé	style élevé	P38	style élevé	Q3908 
+80.2	Q2018	r_s	pseudo-épopée au ton léger	pseudo-épopée	P38	style élevé	Q3908 
+82.26	Q2065	r_s	éléments merveilleux, style élevé	style élevé	P38	style élevé	Q3908 
+84.52	Q2152	r_s	style élevé, épopée en prose	style élevé	P38	style élevé	Q3908 
+86.63	Q2228	r_s	style entrecoupé	style entrecoupé	P38	style élevé	Q3908 
+87.29	Q2239	r_s	style élevé, nature, sensibilité	style élevé	P38	style élevé	Q3908 
+87.4	Q2246	r_s	observations politiques, thèmes philosophiques, pseudo-épopée	pseudo-épopée	P38	style élevé	Q3908 
+89.108	Q2324	r_s	nature, sensibilité, ton grandiose	ton grandiose	P38	style élevé	Q3908 
+90.28	Q2390	r_s	sensibilité passionnée, style élevé	style élevé	P38	style élevé	Q3908 
+91.25	Q2433	r_s	sensibilité effrénée, style entrecoupé	style entrecoupé	P38	style élevé	Q3908 
+61.17	Q1024	r_s	style poétique, pseudo-épopée à la manière de Fénelon.	pseudo-épopée	P38	style élevé	Q3908 
+67.39	Q1033	r_s	style noble, vertu, thèmes philosophiques.	style noble	P38	style élevé	Q3908 
+72.28	Q1806	r_s	style épique	style épique	P38	style épique	Q3909 
+73.13	Q1822	r_s	style épique, poème en prose	style épique, poème en prose	P38	style épique	Q3909 
+84.29	Q2135	r_s	sensibilité, style épique	style épique	P38	style épique	Q3909 
+86.34	Q2207	r_s	style épique	style épique	P38	style épique	Q3909 
+98.90	Q2637	r_s	style épique	style épique	P38	style épique	Q3909 
+00.145	Q1143	r_s	genre troubadour	genre troubadour	P38	style poétique	Q3910 
+51.10	Q1213	r_s	prose poétique	prose poétique	P38	style poétique	Q3910 
+51.34	Q1230	r_s	vogue du genre troubadour	genre troubadour	P38	style poétique	Q3910 
+52.32	Q1259	r_s	conte allégorique; style poétique	style poétique	P38	style poétique	Q3910 
+53.12	Q1272	r_s	style poétique	style poétique	P38	style poétique	Q3910 
+55.34	Q1335	r_s	style poétique	style poétique	P38	style poétique	Q3910 
+64.43	Q1509	r_s	prose poétique	prose poétique	P38	style poétique	Q3910 
+66.1	Q1556	r_s	prose poétique	prose poétique	P38	style poétique	Q3910 
+67.21	Q1600	r_s	sujet biblique; prose poétique	prose poétique	P38	style poétique	Q3910 
+70.6	Q1751	r_s	ton ironique, épopée burlesque	épopée burlesque	P38	style poétique	Q3910 
+72.11	Q1792	r_s	sensibilité, genre troubadour	genre troubadour	P38	style poétique	Q3910 
+73.33	Q1836	r_s	style poétique	style poétique	P38	style poétique	Q3910 
+80.32	Q2030	r_s	genre troubadour	genre troubadour	P38	style poétique	Q3910 
+80.33	Q2031	r_s	genre troubadour	genre troubadour	P38	style poétique	Q3910 
+80.5	Q2033	r_s	style poétique, voluptueux	style poétique	P38	style poétique	Q3910 
+83.36	Q2099	r_s	genre troubadour	genre troubadour	P38	style poétique	Q3910 
+84.34	Q2139	r_s	sensibilité, style poétique	style poétique	P38	style poétique	Q3910 
+89.32	Q2340	r_s	prose poétique	prose poétique	P38	style poétique	Q3910 
+95.13	Q2508	r_s	prose poétique	prose poétique	P38	style poétique	Q3910 
+95.14	Q2509	r_s	prose poétique, peintures voluptueuses, sensibilité passionnée	prose poétique	P38	style poétique	Q3910 
+96.40	Q2541	r_s	genre troubadour	genre troubadour	P38	style poétique	Q3910 
+97.1	Q2559	r_s	sensibilité larmoyante, prose poétique entremêlée de vers	prose poétique	P38	style poétique	Q3910 
+97.33	Q2575	r_s	prose poétique	prose poétique	P38	style poétique	Q3910 
+97.72	Q2593	r_s	style poétique	style poétique	P38	style poétique	Q3910 
+99.6	Q2732	r_s	ton voluptueux mais moralisateur	voluptueux	P38	style poétique	Q3910 
+99.79	Q2746	r_s	épopée en prose poétique	prose poétique	P38	style poétique	Q3910 
+99.82	Q2750	r_s	genre troubadour	genre troubadour	P38	style poétique	Q3910 
+99.89	Q2756	r_s	style poétique	style poétique	P38	style poétique	Q3910 
+53.26	Q1012	r_s	style poétique.	style poétique	P38	style poétique	Q3910 
+61.17	Q1024	r_s	style poétique, pseudo-épopée à la manière de Fénelon.	style poétique	P38	style poétique	Q3910 
+63.19	Q1028	r_s	poème en prose, genre troubadour.	genre troubadour	P38	style poétique	Q3910 
+69.57	Q1036	r_s	sensibilité, vertu, prose poétique.	prose poétique	P38	style poétique	Q3910 
+83.26	Q1057	r_s	prose poétique.	prose poétique	P38	style poétique	Q3910 
+88.53	Q1073	r_s	style poétique.	style poétique	P38	style poétique	Q3910 
+00.121	Q1124	r_s	ton satirique, tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+00.65	Q1187	r_s	ton léger, tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+52.40	Q1264	r_s	ton réaliste	ton réaliste	P38	tendances réalistes	Q3911 
+53.17	Q1275	r_s	ton réaliste et humoristique	ton réaliste	P38	tendances réalistes	Q3911 
+65.20	Q1527	r_s	tendances réalistes, sensibilité	tendances réalistes	P38	tendances réalistes	Q3911 
+67.11	Q1590	r_s	tendances réalistes au début	tendances réalistes	P38	tendances réalistes	Q3911 
+67.30	Q1607	r_s	quelques tendances réalistes, réflexions sur l’amour et la vertu	tendances réalistes	P38	tendances réalistes	Q3911 
+67.5	Q1620	r_s	tendances réalistes, ton comique	tendances réalistes	P38	tendances réalistes	Q3911 
+67.8	Q1624	r_s	tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+68.19	Q1633	r_s	sensibilité, vertu, bienfaisance, tendances réalistes (vie économique)	tendances réalistes	P38	tendances réalistes	Q3911 
+69.11	Q1673	r_s	tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+70.14	Q1720	r_s	intentions moralisatrices, tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+75.10	Q1869	r_s	sensibilité, vertu, bienfaisance, tendances réalistes dans la description de la misère	tendances réalistes	P38	tendances réalistes	Q3911 
+76.44	Q1918	r_s	prétentions moralisatrices, tendances réalistes, sensibilité	tendances réalistes	P38	tendances réalistes	Q3911 
+78.11	Q1956	r_s	sensibilité, mélancolie, quelques tendances réalistes au début	tendances réalistes	P38	tendances réalistes	Q3911 
+79.10	Q1983	r_s	ton satirique, tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+79.31	Q2000	r_s	fortes tendances réalistes, sensibilité, prétentions moralisatrices	tendances réalistes	P38	tendances réalistes	Q3911 
+80.27	Q2025	r_s	réalisme du cadre, autobiographie romancée, sensibilité, prétentions moralisatrices	réalisme du cadre	P38	tendances réalistes	Q3911 
+84.28	Q2134	r_s	tendances réalistes, ton facétieux	tendances réalistes	P38	tendances réalistes	Q3911 
+85.40	Q2184	r_s	imitations d’Ossian, thèmes philosophiques, intentions didactiques, tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+86.58	Q2222	r_s	fortes tendances réalistes, autobiographie romancée	tendances réalistes	P38	tendances réalistes	Q3911 
+89.95	Q2371	r_s	fortes tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+96.3	Q2534	r_s	tendances réalistes, thèmes philosophiques	tendances réalistes	P38	tendances réalistes	Q3911 
+98.60	Q2620	r_s	tendances réalistes et satiriques	tendances réalistes	P38	tendances réalistes	Q3911 
+99.10	Q2642	r_s	ton gai, éléments réalistes	éléments réalistes	P38	tendances réalistes	Q3911 
+99.141	Q2676	r_s	ton satirique, tendances réalistes	tendances réalistes	P38	tendances réalistes	Q3911 
+82.27	Q1055	r_s	thèmes philosophiques, quelques épisodes aux tendances réalistes.	tendances réalistes	P38	tendances réalistes	Q3911 
+84.58	Q1065	r_s	sensibilité, intentions moralisatrices, tendances réalistes.	tendances réalistes	P38	tendances réalistes	Q3911 
+00.117	Q1119	r_s	ton léger mêlé de sensibilité	ton léger mêlé de sensibilité	P38	ton gai	Q3912 
+00.144	Q1142	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+51.31	Q1227	r_s	observations sur les mœurs européennes, ton plaisant	ton plaisant	P38	ton gai	Q3912 
+55.17	Q1320	r_s	facétie grossière	facétie	P38	ton gai	Q3912 
+55.29	Q1330	r_s	ton libre	ton libre	P38	ton gai	Q3912 
+55.32	Q1334	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+57.3	Q1374	r_s	ton libre, fin moralisatrice	ton libre	P38	ton gai	Q3912 
+60.33	Q1419	r_s	ton plaisant	ton plaisant	P38	ton gai	Q3912 
+62.6	Q1458	r_s	ton licencieux	ton licencieux	P38	ton gai	Q3912 
+63.14	Q1465	r_s	ton libre	ton libre	P38	ton gai	Q3912 
+68.43	Q1657	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+69.31	Q1691	r_s	ton frivole	ton frivole	P38	ton gai	Q3912 
+69.49	Q1703	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+70.23	Q1727	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+73.32	Q1835	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+76.28bis	Q1906	r_s	ton plaisant	ton plaisant	P38	ton gai	Q3912 
+79.15	Q1987	r_s	ton libre	ton libre	P38	ton gai	Q3912 
+79.5	Q2006	r_s	ton libre	ton libre	P38	ton gai	Q3912 
+80.2	Q2018	r_s	pseudo-épopée au ton léger	pseudo-épopée au ton léger	P38	ton gai	Q3912 
+83.12	Q2083	r_s	ton gai	ton gai	P38	ton gai	Q3912 
+83.4	Q2101	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+84.22	Q2129	r_s	ton plaisant	ton plaisant	P38	ton gai	Q3912 
+84.28	Q2134	r_s	tendances réalistes, ton facétieux	ton facétieux	P38	ton gai	Q3912 
+87.34	Q2242	r_s	ton plaisant, avec des notes facétieuses	ton plaisant	P38	ton gai	Q3912 
+88.10	Q2271	r_s	ton facétieux. A la manière du Voyage sentimental de Sterne	ton facétieux	P38	ton gai	Q3912 
+92.39	Q2476	r_s	style héroï-comique	style héroï-comique	P38	ton gai	Q3912 
+93.15	Q2485	r_s	ton héroï-comique	ton héroï-comique	P38	ton gai	Q3912 
+96.50	Q2549	r_s	ton facétieux	ton facétieux	P38	ton gai	Q3912 
+98.34	Q2609	r_s	construction désordonnée, ton satirique et facétieux	ton satirique et facétieux	P38	ton gai	Q3912 
+99.10	Q2642	r_s	ton gai, éléments réalistes	ton gai	P38	ton gai	Q3912 
+99.160	Q2691	r_s	éléments merveilleux, thèmes philosophiques, ton facétieux	ton facétieux	P38	ton gai	Q3912 
+00.114	Q1116	r_s	ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+00.18	Q1150	r_s	peinture des mœurs, ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+00.28	Q1158	r_s	ton sentimental et moralisateur	ton sentimental	P38	ton sentimental	Q3913 
+00.63	Q1185	r_s	ton sentimental, réflexions morales	ton sentimental	P38	ton sentimental	Q3913 
+53.4	Q1287	r_s	conversations sur l’amour; conte merveilleux	conversations sur l’amour	P38	ton sentimental	Q3913 
+60.2	Q1408	r_s	correspondance sentimentale	correspondance sentimentale	P38	ton sentimental	Q3913 
+68.5bis	Q1669	r_s	ton sentimental et moralisateur	ton sentimental	P38	ton sentimental	Q3913 
+85.7	Q2190	r_s	ton sentimental et moralisateur, observations des mœurs mauresques	ton sentimental	P38	ton sentimental	Q3913 
+88.97	Q2322	r_s	ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+89.53	Q2351	r_s	ton sentimental et moralisateur	ton sentimental	P38	ton sentimental	Q3913 
+89.90	Q2368	r_s	allégories, ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+96.16	Q2529	r_s	ton sentimental et moralisateur	ton sentimental	P38	ton sentimental	Q3913 
+98.11	Q2598	r_s	ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+99.28	Q2707	r_s	ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+99.3	Q2709	r_s	ton sentimental et moralisateur	ton sentimental	P38	ton sentimental	Q3913 
+99.87	Q2754	r_s	ton sentimental	ton sentimental	P38	ton sentimental	Q3913 
+65.15	Q1521	r_s	style ancien	style ancien	P38	vieux langage	Q3914 
+66.12	Q1558	r_s	"langue ancienne (""manuscrit du XIVe siècle"")"	"langue ancienne (""manuscrit du XIVe siècle"")"	P38	vieux langage	Q3914 
+70.34	Q1736	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+70.36	Q1738	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+83.2	Q2088	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+83.20	Q2089	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+83.23	Q2092	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+85.36	Q2179	r_s	vieux langage, goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+88.91	Q2316	r_s	goût pour l’ancienne littérature	goût pour l’ancienne littérature	P38	vieux langage	Q3914 
+90.40	Q2396	r_s	ton satirique, style ’ancien ’	style ’ancien ’	P38	vieux langage	Q3914 
